@@ -1,0 +1,894 @@
+Ad_ID,Campaign_Name,Clicks,Impressions,Cost,Leads,Conversions,Conversion Rate,Sale_Amount,Ad_Date,Location,Device,Keyword
+A1000,DataAnalyticsCourse,104.0,4498.0,231.88,14.0,7.0,6.730769230769231,1892.0,2024-11-16,Hyderabad,desktop,learn data analytics
+A1003,Data Analytcis Course,142.0,3185.0,237.66,17.0,6.0,4.225352112676056,1225.0,2024-11-26,Hyderabad,tablet,data anaytics training
+A1004,Data Analytics Corse,156.0,3361.0,195.9,30.0,8.0,5.128205128205128,1091.0,2024-11-22,Hyderabad,desktop,online data analytic
+A1014,Data Analytcis Course,181.0,4311.0,185.09,11.0,9.0,4.972375690607735,1538.0,2024-11-04,Hyderabad,Desktop,data anaytics training
+A1015,Data Analytcis Course,102.0,5461.0,201.69,22.0,8.0,7.8431372549019605,1755.0,2024-11-29,Hyderabad,desktop,data analytics course
+A1016,Data Analytcis Course,193.0,5159.0,215.57,15.0,9.0,4.66321243523316,1614.0,2024-11-10,Hyderabad,Mobile,learn data analytics
+A1019,Data Analytcis Course,145.0,5278.0,215.57,25.0,6.0,4.137931034482759,1516.0,2024-11-05,Hyderabad,DESKTOP,data analytics course
+A1022,Data Analytcis Course,122.0,5187.0,211.24,27.0,6.0,4.918032786885246,1322.0,2024-11-20,Hyderabad,Desktop,online data analytic
+A1025,DataAnalyticsCourse,88.0,3349.0,181.92,22.0,8.0,9.090909090909092,1456.0,2024-11-20,Hyderabad,Tablet,learn data analytics
+A1026,Data Anlytics Corse,119.0,5323.0,205.92,17.0,10.0,8.403361344537815,1656.0,2024-11-02,Hyderabad,desktop,online data analytic
+A1027,Data Analytics Corse,140.0,5286.0,234.89,22.0,10.0,7.142857142857142,1688.0,2024-11-21,Hyderabad,DESKTOP,data anaytics training
+A1028,Data Anlytics Corse,128.0,5469.0,188.49,16.0,3.0,2.34375,1783.0,2024-11-23,Hyderabad,MOBILE,learn data analytics
+A1030,Data Analytics Corse,188.0,4834.0,213.58,15.0,4.0,2.127659574468085,1590.0,2024-11-08,Hyderabad,TABLET,online data analytic
+A1034,Data Analytcis Course,121.0,5610.0,214.96,23.0,8.0,6.6115702479338845,1505.0,2024-11-25,Hyderabad,Mobile,data analytics course
+A1036,Data Anlytics Corse,146.0,5939.0,242.9,11.0,8.0,5.47945205479452,1833.0,2024-11-07,Hyderabad,Desktop,data anaytics training
+A1039,Data Analytcis Course,171.0,4304.0,192.61,17.0,10.0,5.847953216374268,1427.0,2024-11-26,Hyderabad,Mobile,learn data analytics
+A1041,Data Analytics Corse,112.0,4271.0,196.07,27.0,6.0,5.357142857142857,1209.0,2024-11-14,Hyderabad,desktop,data analitics online
+A1047,Data Analytics Corse,142.0,5103.0,234.1,24.0,3.0,2.112676056338028,1835.0,2024-11-08,Hyderabad,mobile,analytics for data
+A1048,Data Analytcis Course,168.0,4653.0,240.84,27.0,9.0,5.357142857142857,1367.0,2024-11-24,Hyderabad,Mobile,online data analytic
+A1051,Data Analytics Corse,101.0,3942.0,206.62,16.0,5.0,4.9504950495049505,1746.0,2024-11-24,Hyderabad,Tablet,analytics for data
+A1052,Data Analytics Corse,157.0,3315.0,189.56,15.0,10.0,6.369426751592357,1026.0,2024-11-25,Hyderabad,MOBILE,online data analytic
+A1055,Data Analytcis Course,125.0,4223.0,183.68,15.0,6.0,4.8,1267.0,2024-11-05,Hyderabad,DESKTOP,data analitics online
+A1057,Data Anlytics Corse,194.0,5655.0,208.58,13.0,6.0,3.0927835051546393,1692.0,2024-11-16,Hyderabad,mobile,data anaytics training
+A1059,Data Analytics Corse,179.0,3025.0,238.81,17.0,3.0,1.675977653631285,1505.0,2024-11-11,Hyderabad,mobile,data analitics online
+A1065,Data Analytics Corse,99.0,4489.0,183.73,15.0,6.0,6.0606060606060606,1264.0,2024-11-05,Hyderabad,desktop,online data analytic
+A1067,Data Analytcis Course,138.0,5751.0,199.11,26.0,9.0,6.521739130434782,1337.0,2024-11-10,Hyderabad,desktop,data analitics online
+A1069,DataAnalyticsCourse,124.0,4942.0,240.59,18.0,3.0,2.4193548387096775,1922.0,2024-11-16,Hyderabad,DESKTOP,learn data analytics
+A1071,Data Analytics Corse,180.0,3006.0,228.14,22.0,7.0,3.888888888888889,1556.0,2024-11-04,Hyderabad,TABLET,learn data analytics
+A1072,DataAnalyticsCourse,133.0,3728.0,199.13,11.0,10.0,7.518796992481203,1505.0,2024-11-09,Hyderabad,Desktop,data analitics online
+A1074,Data Analytics Corse,150.0,4621.0,246.3,15.0,6.0,4.0,1554.0,2024-11-09,Hyderabad,Desktop,data analitics online
+A1077,Data Analytics Corse,99.0,4779.0,233.78,26.0,10.0,10.1010101010101,1086.0,2024-11-05,Hyderabad,DESKTOP,online data analytic
+A1078,Data Anlytics Corse,86.0,5352.0,234.05,11.0,5.0,5.813953488372093,1364.0,2024-11-09,Hyderabad,TABLET,online data analytic
+A1079,Data Analytcis Course,118.0,5405.0,187.28,25.0,7.0,5.932203389830509,1836.0,2024-11-05,Hyderabad,TABLET,analytics for data
+A1084,DataAnalyticsCourse,112.0,5814.0,227.38,11.0,8.0,7.142857142857142,1467.0,2024-11-03,Hyderabad,Tablet,analytics for data
+A1085,DataAnalyticsCourse,123.0,3292.0,233.2,28.0,6.0,4.878048780487805,1174.0,2024-11-19,Hyderabad,Desktop,data anaytics training
+A1088,Data Analytcis Course,195.0,5935.0,209.68,23.0,9.0,4.615384615384616,1966.0,2024-11-07,Hyderabad,tablet,online data analytic
+A1089,DataAnalyticsCourse,176.0,5847.0,241.04,13.0,6.0,3.4090909090909087,1194.0,2024-11-02,Hyderabad,DESKTOP,online data analytic
+A1092,Data Anlytics Corse,112.0,3345.0,215.57,11.0,6.0,5.357142857142857,1859.0,2024-11-23,Hyderabad,TABLET,analytics for data
+A1094,Data Analytcis Course,145.0,5004.0,216.45,22.0,5.0,3.4482758620689653,1496.0,2024-11-01,Hyderabad,tablet,data analitics online
+A1095,Data Anlytics Corse,183.0,3947.0,197.3,15.0,8.0,4.371584699453552,1645.0,2024-11-14,Hyderabad,Desktop,data anaytics training
+A1096,DataAnalyticsCourse,113.0,3690.0,229.42,20.0,5.0,4.424778761061947,1915.0,2024-11-28,Hyderabad,tablet,learn data analytics
+A1097,Data Analytcis Course,101.0,5943.0,187.32,27.0,6.0,5.9405940594059405,1614.0,2024-11-15,Hyderabad,TABLET,data analitics online
+A1098,DataAnalyticsCourse,189.0,5357.0,222.5,24.0,3.0,1.5873015873015872,1839.0,2024-11-25,Hyderabad,tablet,data analytics course
+A1100,Data Anlytics Corse,179.0,5162.0,246.76,16.0,5.0,2.793296089385475,1052.0,2024-11-29,Hyderabad,DESKTOP,online data analytic
+A1102,Data Anlytics Corse,177.0,4822.0,197.03,26.0,9.0,5.084745762711865,1909.0,2024-11-04,Hyderabad,Mobile,online data analytic
+A1106,Data Analytics Corse,109.0,4128.0,183.65,12.0,5.0,4.587155963302752,1505.0,2024-11-30,Hyderabad,Desktop,data analitics online
+A1107,Data Anlytics Corse,159.0,5127.0,197.16,21.0,4.0,2.515723270440252,1867.0,2024-11-03,Hyderabad,tablet,learn data analytics
+A1108,Data Anlytics Corse,144.0,5674.0,235.36,12.0,3.0,2.083333333333333,1505.0,2024-11-22,Hyderabad,desktop,analytics for data
+A1109,Data Anlytics Corse,122.0,3793.0,237.22,19.0,8.0,6.557377049180328,1842.0,2024-11-20,Hyderabad,tablet,online data analytic
+A1112,Data Analytics Corse,168.0,3349.0,235.6,23.0,9.0,5.357142857142857,1894.0,2024-11-09,Hyderabad,Mobile,online data analytic
+A1118,Data Anlytics Corse,172.0,3889.0,215.57,21.0,10.0,5.813953488372093,1766.0,2024-11-16,Hyderabad,TABLET,online data analytic
+A1121,DataAnalyticsCourse,113.0,5471.0,215.57,27.0,9.0,7.964601769911504,1123.0,2024-11-23,Hyderabad,Mobile,analytics for data
+A1122,Data Analytics Corse,109.0,3550.0,240.33,14.0,8.0,7.339449541284404,1982.0,2024-11-24,Hyderabad,Tablet,learn data analytics
+A1124,DataAnalyticsCourse,96.0,4673.0,192.88,24.0,5.0,5.208333333333334,1962.0,2024-11-10,Hyderabad,MOBILE,learn data analytics
+A1125,Data Analytcis Course,110.0,4254.0,187.87,11.0,4.0,3.6363636363636362,1172.0,2024-11-04,Hyderabad,MOBILE,data anaytics training
+A1126,Data Anlytics Corse,163.0,3658.0,237.63,23.0,7.0,4.294478527607362,1699.0,2024-11-23,Hyderabad,TABLET,online data analytic
+A1127,DataAnalyticsCourse,161.0,5319.0,235.98,13.0,4.0,2.484472049689441,1423.0,2024-11-18,Hyderabad,Mobile,learn data analytics
+A1131,Data Analytics Corse,117.0,3809.0,225.14,12.0,5.0,4.273504273504273,1495.0,2024-11-09,Hyderabad,DESKTOP,data anaytics training
+A1132,DataAnalyticsCourse,135.0,5118.0,219.99,27.0,6.0,4.444444444444445,1089.0,2024-11-20,Hyderabad,MOBILE,online data analytic
+A1135,Data Analytcis Course,101.0,4724.0,228.38,13.0,7.0,6.9306930693069315,1243.0,2024-11-20,Hyderabad,Desktop,learn data analytics
+A1136,Data Anlytics Corse,111.0,5895.0,205.25,29.0,4.0,3.6036036036036037,1693.0,2024-11-04,Hyderabad,Mobile,data analytics course
+A1138,Data Analytcis Course,99.0,3169.0,237.68,21.0,6.0,6.0606060606060606,1509.0,2024-11-22,Hyderabad,Mobile,online data analytic
+A1145,Data Anlytics Corse,174.0,4838.0,242.35,21.0,3.0,1.7241379310344827,1599.0,2024-11-22,Hyderabad,desktop,data analitics online
+A1146,Data Analytics Corse,196.0,4524.0,192.01,15.0,8.0,4.081632653061225,1048.0,2024-11-13,Hyderabad,desktop,data analytics course
+A1147,Data Analytics Corse,194.0,4694.0,228.15,17.0,7.0,3.608247422680412,1874.0,2024-11-14,Hyderabad,Tablet,learn data analytics
+A1150,Data Anlytics Corse,153.0,4367.0,184.51,29.0,9.0,5.88235294117647,1507.0,2024-11-13,Hyderabad,MOBILE,analytics for data
+A1152,Data Analytics Corse,116.0,3901.0,215.57,21.0,4.0,3.4482758620689653,1483.0,2024-11-13,Hyderabad,Tablet,online data analytic
+A1153,Data Analytics Corse,156.0,3335.0,236.98,29.0,7.0,4.487179487179487,1143.0,2024-11-14,Hyderabad,desktop,data analytics course
+A1160,Data Anlytics Corse,160.0,4507.0,245.87,11.0,6.0,3.75,1505.0,2024-11-05,Hyderabad,DESKTOP,analytics for data
+A1161,Data Anlytics Corse,143.0,3901.0,191.38,29.0,4.0,2.797202797202797,1786.0,2024-11-24,Hyderabad,MOBILE,learn data analytics
+A1174,Data Analytcis Course,97.0,3605.0,240.29,21.0,7.0,7.216494845360824,1682.0,2024-11-10,Hyderabad,Desktop,data analitics online
+A1176,Data Anlytics Corse,131.0,5352.0,225.86,24.0,10.0,7.633587786259542,1961.0,2024-11-20,Hyderabad,mobile,online data analytic
+A1178,DataAnalyticsCourse,93.0,4308.0,209.83,19.0,9.0,9.67741935483871,1694.0,2024-11-20,Hyderabad,mobile,data analytics course
+A1182,Data Anlytics Corse,186.0,3337.0,183.58,16.0,8.0,4.301075268817205,1045.0,2024-11-30,Hyderabad,Desktop,online data analytic
+A1185,Data Analytcis Course,129.0,3208.0,204.2,18.0,8.0,6.2015503875969,1456.0,2024-11-29,Hyderabad,Desktop,learn data analytics
+A1186,Data Anlytics Corse,187.0,5972.0,220.64,30.0,7.0,3.7433155080213902,1980.0,2024-11-14,Hyderabad,Desktop,data analytics course
+A1187,Data Analytics Corse,167.0,3662.0,235.43,10.0,7.0,4.191616766467066,1684.0,2024-11-25,Hyderabad,MOBILE,data anaytics training
+A1191,Data Analytics Corse,140.0,5638.0,208.02,22.0,5.0,3.571428571428571,1652.0,2024-11-18,Hyderabad,desktop,data anaytics training
+A1192,Data Analytics Corse,157.0,5825.0,230.6,16.0,3.0,1.910828025477707,1041.0,2024-11-16,Hyderabad,desktop,data anaytics training
+A1195,DataAnalyticsCourse,154.0,3638.0,182.17,11.0,8.0,5.194805194805195,1413.0,2024-11-04,Hyderabad,mobile,online data analytic
+A1197,Data Analytcis Course,140.0,5016.0,238.59,26.0,9.0,6.428571428571428,1620.0,2024-11-20,Hyderabad,Mobile,data analitics online
+A1201,Data Analytcis Course,138.0,3971.0,184.87,28.0,3.0,2.1739130434782608,1718.0,2024-11-07,Hyderabad,TABLET,learn data analytics
+A1204,Data Analytcis Course,138.0,4426.0,203.75,24.0,10.0,7.246376811594203,1838.0,2024-11-05,Hyderabad,MOBILE,data analytics course
+A1205,DataAnalyticsCourse,108.0,4080.0,247.8,18.0,4.0,3.7037037037037033,1363.0,2024-11-30,Hyderabad,Tablet,online data analytic
+A1206,Data Anlytics Corse,150.0,4113.0,219.67,12.0,7.0,4.666666666666667,1196.0,2024-11-22,Hyderabad,MOBILE,learn data analytics
+A1208,Data Analytics Corse,98.0,3422.0,223.55,17.0,7.0,7.142857142857142,1414.0,2024-11-19,Hyderabad,TABLET,online data analytic
+A1210,Data Analytcis Course,199.0,4507.0,199.98,15.0,8.0,4.0201005025125625,1467.0,2024-11-08,Hyderabad,tablet,data anaytics training
+A1212,Data Anlytics Corse,118.0,3970.0,215.57,27.0,9.0,7.627118644067797,1036.0,2024-11-19,Hyderabad,desktop,data analytics course
+A1215,Data Anlytics Corse,126.0,4206.0,233.76,29.0,10.0,7.936507936507936,1998.0,2024-11-06,Hyderabad,tablet,online data analytic
+A1216,Data Anlytics Corse,199.0,4745.0,215.57,13.0,9.0,4.522613065326634,1800.0,2024-11-28,Hyderabad,tablet,analytics for data
+A1217,DataAnalyticsCourse,92.0,4042.0,200.75,15.0,7.0,7.608695652173914,1234.0,2024-11-24,Hyderabad,TABLET,learn data analytics
+A1218,Data Anlytics Corse,140.0,4883.0,249.61,10.0,3.0,2.142857142857143,1464.0,2024-11-12,Hyderabad,Tablet,online data analytic
+A1220,Data Anlytics Corse,135.0,3480.0,224.94,11.0,4.0,2.9629629629629632,1398.0,2024-11-23,Hyderabad,Tablet,data analitics online
+A1222,Data Analytics Corse,117.0,3380.0,186.73,21.0,10.0,8.547008547008547,1958.0,2024-11-19,Hyderabad,desktop,data anaytics training
+A1224,Data Analytcis Course,132.0,4490.0,202.45,10.0,7.0,5.303030303030303,1441.0,2024-11-10,Hyderabad,mobile,data analitics online
+A1227,Data Anlytics Corse,163.0,5643.0,217.4,30.0,6.0,3.6809815950920246,1678.0,2024-11-01,Hyderabad,DESKTOP,data analitics online
+A1232,Data Anlytics Corse,101.0,4507.0,234.17,29.0,5.0,4.9504950495049505,1568.0,2024-11-27,Hyderabad,mobile,data anaytics training
+A1234,Data Anlytics Corse,95.0,4562.0,187.62,24.0,9.0,9.473684210526317,1239.0,2024-11-26,Hyderabad,Desktop,data anaytics training
+A1236,Data Analytics Corse,192.0,5852.0,181.05,16.0,8.0,4.166666666666666,1600.0,2024-11-21,Hyderabad,DESKTOP,analytics for data
+A1242,DataAnalyticsCourse,123.0,5231.0,202.93,30.0,10.0,8.130081300813007,1551.0,2024-11-23,Hyderabad,Desktop,online data analytic
+A1245,Data Anlytics Corse,111.0,5847.0,196.71,21.0,9.0,8.108108108108109,1445.0,2024-11-30,Hyderabad,mobile,online data analytic
+A1248,DataAnalyticsCourse,166.0,5592.0,183.03,22.0,4.0,2.4096385542168677,1636.0,2024-11-22,Hyderabad,TABLET,online data analytic
+A1252,Data Anlytics Corse,158.0,4780.0,247.2,23.0,9.0,5.69620253164557,1005.0,2024-11-24,Hyderabad,DESKTOP,learn data analytics
+A1261,Data Analytcis Course,188.0,3859.0,211.83,30.0,9.0,4.787234042553192,1719.0,2024-11-28,Hyderabad,MOBILE,online data analytic
+A1263,Data Analytics Corse,143.0,5340.0,215.57,20.0,9.0,6.293706293706294,1223.0,2024-11-05,Hyderabad,tablet,online data analytic
+A1266,Data Analytics Corse,186.0,3424.0,201.81,27.0,3.0,1.6129032258064515,1337.0,2024-11-26,Hyderabad,DESKTOP,data anaytics training
+A1267,Data Analytcis Course,120.0,4060.0,210.95,24.0,9.0,7.5,1376.0,2024-11-05,Hyderabad,tablet,data analitics online
+A1272,Data Analytcis Course,95.0,4141.0,207.14,22.0,3.0,3.1578947368421053,1929.0,2024-11-11,Hyderabad,Tablet,learn data analytics
+A1273,Data Anlytics Corse,183.0,4791.0,232.97,27.0,5.0,2.73224043715847,1476.0,2024-11-21,Hyderabad,desktop,data analitics online
+A1276,Data Analytcis Course,90.0,3577.0,233.54,24.0,5.0,5.555555555555555,1175.0,2024-11-14,Hyderabad,tablet,analytics for data
+A1277,Data Analytics Corse,148.0,4469.0,209.76,25.0,8.0,5.405405405405405,1505.0,2024-11-25,Hyderabad,tablet,data analytics course
+A1278,Data Analytcis Course,129.0,3611.0,227.82,11.0,7.0,5.426356589147287,1250.0,2024-11-22,Hyderabad,tablet,data anaytics training
+A1280,Data Analytcis Course,82.0,4239.0,191.75,23.0,8.0,9.75609756097561,1062.0,2024-11-22,Hyderabad,Mobile,learn data analytics
+A1281,Data Analytics Corse,145.0,5973.0,242.16,12.0,7.0,4.827586206896552,1508.0,2024-11-14,Hyderabad,Tablet,online data analytic
+A1283,Data Anlytics Corse,137.0,4395.0,241.58,24.0,4.0,2.9197080291970803,1512.0,2024-11-06,Hyderabad,desktop,online data analytic
+A1286,Data Analytics Corse,149.0,3101.0,231.44,15.0,9.0,6.0402684563758395,1126.0,2024-11-06,Hyderabad,Tablet,data anaytics training
+A1297,DataAnalyticsCourse,173.0,3977.0,229.82,30.0,5.0,2.8901734104046244,1584.0,2024-11-22,Hyderabad,Desktop,learn data analytics
+A1301,Data Analytcis Course,113.0,5721.0,216.7,11.0,6.0,5.3097345132743365,1743.0,2024-11-17,Hyderabad,Desktop,data anaytics training
+A1304,Data Anlytics Corse,162.0,5915.0,211.96,11.0,7.0,4.320987654320987,1394.0,2024-11-20,Hyderabad,Tablet,analytics for data
+A1305,Data Analytcis Course,140.0,4450.0,219.21,16.0,10.0,7.142857142857142,1917.0,2024-11-10,Hyderabad,mobile,learn data analytics
+A1306,DataAnalyticsCourse,136.0,5782.0,189.65,23.0,6.0,4.411764705882353,1951.0,2024-11-11,Hyderabad,Tablet,data anaytics training
+A1307,DataAnalyticsCourse,192.0,4339.0,245.57,24.0,8.0,4.166666666666666,1284.0,2024-11-18,Hyderabad,mobile,learn data analytics
+A1308,Data Anlytics Corse,147.0,5870.0,215.57,14.0,8.0,5.442176870748299,1748.0,2024-11-02,Hyderabad,MOBILE,data anaytics training
+A1310,DataAnalyticsCourse,192.0,5130.0,184.63,19.0,4.0,2.083333333333333,1087.0,2024-11-07,Hyderabad,DESKTOP,data analytics course
+A1312,Data Analytics Corse,199.0,5290.0,218.55,20.0,7.0,3.5175879396984926,1234.0,2024-11-30,Hyderabad,tablet,learn data analytics
+A1316,DataAnalyticsCourse,146.0,3757.0,192.59,25.0,9.0,6.164383561643835,1169.0,2024-11-09,Hyderabad,DESKTOP,online data analytic
+A1317,Data Analytcis Course,192.0,4225.0,242.0,24.0,6.0,3.125,1032.0,2024-11-01,Hyderabad,mobile,data analitics online
+A1318,Data Anlytics Corse,149.0,3410.0,181.12,20.0,4.0,2.684563758389262,1806.0,2024-11-17,Hyderabad,Desktop,learn data analytics
+A1325,DataAnalyticsCourse,131.0,4228.0,230.18,16.0,9.0,6.870229007633588,1393.0,2024-11-07,Hyderabad,Desktop,data anaytics training
+A1326,Data Analytics Corse,139.0,5120.0,199.3,24.0,5.0,3.597122302158273,1835.0,2024-11-23,Hyderabad,mobile,data analytics course
+A1327,DataAnalyticsCourse,141.0,3600.0,227.54,20.0,6.0,4.25531914893617,1367.0,2024-11-07,Hyderabad,DESKTOP,learn data analytics
+A1328,Data Anlytics Corse,175.0,5016.0,215.57,16.0,3.0,1.7142857142857144,1836.0,2024-11-07,Hyderabad,Tablet,learn data analytics
+A1331,Data Analytics Corse,187.0,3115.0,184.61,12.0,3.0,1.6042780748663104,1324.0,2024-11-30,Hyderabad,MOBILE,learn data analytics
+A1332,DataAnalyticsCourse,153.0,5886.0,218.33,29.0,3.0,1.9607843137254901,1424.0,2024-11-20,Hyderabad,MOBILE,analytics for data
+A1335,Data Anlytics Corse,116.0,4519.0,184.29,23.0,7.0,6.0344827586206895,1070.0,2024-11-12,Hyderabad,Desktop,data anaytics training
+A1340,Data Analytcis Course,155.0,5835.0,239.52,10.0,4.0,2.5806451612903225,1505.0,2024-11-13,Hyderabad,mobile,analytics for data
+A1341,Data Anlytics Corse,100.0,4928.0,186.68,22.0,10.0,10.0,1071.0,2024-11-23,Hyderabad,Mobile,analytics for data
+A1346,Data Analytics Corse,197.0,5365.0,208.86,14.0,4.0,2.030456852791878,1106.0,2024-11-01,Hyderabad,Tablet,data anaytics training
+A1348,Data Anlytics Corse,117.0,3951.0,212.02,16.0,5.0,4.273504273504273,1949.0,2024-11-10,Hyderabad,Desktop,data anaytics training
+A1349,Data Analytics Corse,198.0,3405.0,224.9,13.0,10.0,5.05050505050505,1631.0,2024-11-14,Hyderabad,Tablet,online data analytic
+A1351,DataAnalyticsCourse,137.0,3602.0,194.55,23.0,5.0,3.64963503649635,1580.0,2024-11-02,Hyderabad,TABLET,data analytics course
+A1352,Data Anlytics Corse,163.0,3917.0,209.01,10.0,3.0,1.8404907975460123,1823.0,2024-11-17,Hyderabad,TABLET,data anaytics training
+A1357,Data Anlytics Corse,133.0,3064.0,221.8,22.0,5.0,3.7593984962406015,1538.0,2024-11-11,Hyderabad,mobile,learn data analytics
+A1358,DataAnalyticsCourse,118.0,3730.0,207.5,25.0,8.0,6.779661016949152,1011.0,2024-11-12,Hyderabad,MOBILE,data anaytics training
+A1363,Data Analytics Corse,89.0,5872.0,198.32,14.0,6.0,6.741573033707865,1553.0,2024-11-20,Hyderabad,mobile,online data analytic
+A1365,DataAnalyticsCourse,88.0,3396.0,193.79,19.0,5.0,5.681818181818182,1860.0,2024-11-18,Hyderabad,Mobile,online data analytic
+A1367,Data Anlytics Corse,194.0,4240.0,213.45,18.0,4.0,2.0618556701030926,1890.0,2024-11-23,Hyderabad,Tablet,data analitics online
+A1373,Data Anlytics Corse,101.0,4883.0,237.89,11.0,6.0,5.9405940594059405,1368.0,2024-11-14,Hyderabad,DESKTOP,analytics for data
+A1374,Data Analytics Corse,120.0,4618.0,200.91,18.0,7.0,5.833333333333333,1775.0,2024-11-02,Hyderabad,Tablet,data analitics online
+A1378,Data Analytcis Course,198.0,4208.0,180.06,19.0,8.0,4.040404040404041,1462.0,2024-11-08,Hyderabad,MOBILE,data anaytics training
+A1383,Data Anlytics Corse,161.0,4852.0,235.1,10.0,8.0,4.968944099378882,1738.0,2024-11-24,Hyderabad,DESKTOP,online data analytic
+A1389,DataAnalyticsCourse,177.0,5965.0,199.7,28.0,3.0,1.694915254237288,1090.0,2024-11-13,Hyderabad,mobile,data analitics online
+A1395,Data Analytcis Course,96.0,3761.0,196.45,10.0,5.0,5.208333333333334,1518.0,2024-11-30,Hyderabad,tablet,online data analytic
+A1397,Data Anlytics Corse,179.0,3975.0,183.25,14.0,3.0,1.675977653631285,1505.0,2024-11-06,Hyderabad,TABLET,data analytics course
+A1405,Data Anlytics Corse,144.0,5381.0,199.43,10.0,10.0,6.944444444444445,1085.0,2024-11-09,Hyderabad,Desktop,data anaytics training
+A1407,Data Analytics Corse,146.0,3165.0,211.09,16.0,7.0,4.794520547945205,1706.0,2024-11-08,Hyderabad,MOBILE,learn data analytics
+A1408,Data Anlytics Corse,114.0,5217.0,247.94,11.0,10.0,8.771929824561402,1876.0,2024-11-18,Hyderabad,desktop,data analitics online
+A1410,Data Anlytics Corse,95.0,5971.0,214.57,29.0,10.0,10.526315789473683,1539.0,2024-11-16,Hyderabad,mobile,analytics for data
+A1414,Data Analytcis Course,99.0,4040.0,215.57,13.0,5.0,5.05050505050505,1502.0,2024-11-26,Hyderabad,tablet,online data analytic
+A1415,DataAnalyticsCourse,124.0,5956.0,201.44,12.0,9.0,7.258064516129033,1598.0,2024-11-24,Hyderabad,Tablet,data analitics online
+A1418,Data Analytics Corse,81.0,3147.0,232.2,30.0,9.0,11.11111111111111,1066.0,2024-11-29,Hyderabad,MOBILE,data analytics course
+A1422,Data Analytics Corse,81.0,3497.0,226.66,11.0,6.0,7.4074074074074066,1047.0,2024-11-19,Hyderabad,mobile,data analitics online
+A1424,DataAnalyticsCourse,127.0,5018.0,194.25,17.0,8.0,6.299212598425196,1350.0,2024-11-21,Hyderabad,Mobile,data analitics online
+A1427,Data Analytcis Course,118.0,3824.0,184.8,16.0,5.0,4.23728813559322,1818.0,2024-11-19,Hyderabad,DESKTOP,learn data analytics
+A1430,Data Analytcis Course,142.0,3791.0,207.86,23.0,4.0,2.8169014084507045,1073.0,2024-11-20,Hyderabad,tablet,data analitics online
+A1431,Data Analytics Corse,127.0,5198.0,242.56,26.0,6.0,4.724409448818897,1872.0,2024-11-16,Hyderabad,tablet,learn data analytics
+A1433,Data Anlytics Corse,125.0,5435.0,202.65,25.0,5.0,4.0,1767.0,2024-11-23,Hyderabad,Desktop,online data analytic
+A1435,Data Anlytics Corse,112.0,3850.0,233.52,14.0,8.0,7.142857142857142,1760.0,2024-11-22,Hyderabad,desktop,data analytics course
+A1438,DataAnalyticsCourse,117.0,4367.0,233.27,24.0,3.0,2.564102564102564,1238.0,2024-11-24,Hyderabad,tablet,learn data analytics
+A1439,Data Analytics Corse,100.0,5481.0,180.72,14.0,7.0,7.000000000000001,1185.0,2024-11-02,Hyderabad,DESKTOP,analytics for data
+A1443,DataAnalyticsCourse,124.0,5353.0,239.69,13.0,4.0,3.225806451612903,1493.0,2024-11-19,Hyderabad,DESKTOP,learn data analytics
+A1445,DataAnalyticsCourse,91.0,5104.0,211.85,29.0,9.0,9.89010989010989,1309.0,2024-11-16,Hyderabad,Tablet,data analytics course
+A1447,Data Analytcis Course,115.0,4345.0,229.71,15.0,4.0,3.4782608695652173,1467.0,2024-11-26,Hyderabad,mobile,data analytics course
+A1449,Data Analytics Corse,101.0,3330.0,209.8,19.0,10.0,9.900990099009901,1296.0,2024-11-14,Hyderabad,Mobile,data anaytics training
+A1452,DataAnalyticsCourse,105.0,3008.0,206.91,21.0,4.0,3.8095238095238098,1009.0,2024-11-10,Hyderabad,Desktop,online data analytic
+A1453,Data Analytcis Course,178.0,5318.0,207.05,18.0,4.0,2.247191011235955,1421.0,2024-11-20,Hyderabad,desktop,data analitics online
+A1454,Data Analytcis Course,189.0,5244.0,242.18,29.0,3.0,1.5873015873015872,1080.0,2024-11-07,Hyderabad,Mobile,analytics for data
+A1468,DataAnalyticsCourse,181.0,4507.0,208.33,22.0,8.0,4.41988950276243,1932.0,2024-11-05,Hyderabad,Tablet,online data analytic
+A1474,Data Analytcis Course,139.0,4871.0,211.4,25.0,9.0,6.474820143884892,1247.0,2024-11-29,Hyderabad,Mobile,data anaytics training
+A1483,Data Analytcis Course,136.0,5724.0,218.37,25.0,10.0,7.352941176470589,1268.0,2024-11-18,Hyderabad,desktop,data analytics course
+A1486,Data Analytics Corse,173.0,5554.0,185.09,22.0,4.0,2.312138728323699,1000.0,2024-11-01,Hyderabad,Desktop,data analytics course
+A1491,Data Anlytics Corse,80.0,4969.0,210.7,25.0,3.0,3.75,1146.0,2024-11-05,Hyderabad,TABLET,analytics for data
+A1493,Data Anlytics Corse,90.0,5851.0,232.94,22.0,8.0,8.88888888888889,1421.0,2024-11-28,Hyderabad,Desktop,learn data analytics
+A1498,DataAnalyticsCourse,188.0,4491.0,201.73,24.0,7.0,3.723404255319149,1906.0,2024-11-21,Hyderabad,mobile,online data analytic
+A1504,Data Analytcis Course,123.0,3340.0,225.16,23.0,8.0,6.504065040650407,1563.0,2024-11-26,Hyderabad,MOBILE,online data analytic
+A1505,DataAnalyticsCourse,97.0,3330.0,182.98,15.0,3.0,3.0927835051546393,1102.0,2024-11-14,Hyderabad,Tablet,data analitics online
+A1506,Data Analytcis Course,164.0,3117.0,198.53,25.0,5.0,3.048780487804878,1749.0,2024-11-29,Hyderabad,MOBILE,analytics for data
+A1509,DataAnalyticsCourse,168.0,4375.0,215.57,19.0,8.0,4.761904761904762,1267.0,2024-11-06,Hyderabad,mobile,online data analytic
+A1510,Data Analytcis Course,173.0,3328.0,224.17,15.0,10.0,5.780346820809249,1904.0,2024-11-28,Hyderabad,mobile,online data analytic
+A1511,Data Anlytics Corse,158.0,4336.0,238.29,26.0,9.0,5.69620253164557,1245.0,2024-11-30,Hyderabad,Tablet,online data analytic
+A1514,Data Anlytics Corse,83.0,3926.0,237.07,22.0,5.0,6.024096385542169,1667.0,2024-11-07,Hyderabad,Mobile,analytics for data
+A1517,Data Anlytics Corse,151.0,5700.0,182.27,13.0,3.0,1.9867549668874174,1255.0,2024-11-23,Hyderabad,Mobile,data analytics course
+A1519,Data Analytcis Course,84.0,4646.0,226.32,11.0,7.0,8.333333333333332,1596.0,2024-11-30,Hyderabad,tablet,analytics for data
+A1529,Data Analytics Corse,98.0,3800.0,240.45,16.0,3.0,3.061224489795918,1700.0,2024-11-01,Hyderabad,DESKTOP,data analytics course
+A1531,Data Anlytics Corse,84.0,5711.0,216.02,13.0,6.0,7.142857142857142,1654.0,2024-11-17,Hyderabad,DESKTOP,data anaytics training
+A1534,Data Analytics Corse,89.0,5095.0,202.21,22.0,4.0,4.49438202247191,1065.0,2024-11-07,Hyderabad,TABLET,data analytics course
+A1537,Data Analytcis Course,196.0,3777.0,246.52,20.0,5.0,2.5510204081632653,1159.0,2024-11-15,Hyderabad,desktop,data analytics course
+A1540,Data Analytcis Course,130.0,5384.0,218.6,24.0,8.0,6.153846153846154,1943.0,2024-11-28,Hyderabad,MOBILE,learn data analytics
+A1541,Data Analytics Corse,103.0,4766.0,245.34,11.0,8.0,7.766990291262135,1488.0,2024-11-08,Hyderabad,Desktop,analytics for data
+A1543,DataAnalyticsCourse,127.0,4625.0,207.62,17.0,3.0,2.3622047244094486,1811.0,2024-11-17,Hyderabad,desktop,learn data analytics
+A1544,Data Anlytics Corse,170.0,4689.0,195.98,26.0,6.0,3.5294117647058822,1873.0,2024-11-14,Hyderabad,DESKTOP,data analitics online
+A1548,Data Anlytics Corse,145.0,5978.0,223.3,30.0,10.0,6.896551724137931,1859.0,2024-11-20,Hyderabad,Mobile,online data analytic
+A1550,Data Analytics Corse,84.0,4407.0,192.52,19.0,10.0,11.904761904761903,1221.0,2024-11-03,Hyderabad,Tablet,learn data analytics
+A1551,Data Anlytics Corse,124.0,3180.0,180.8,17.0,6.0,4.838709677419355,1822.0,2024-11-11,Hyderabad,MOBILE,online data analytic
+A1554,Data Anlytics Corse,151.0,5595.0,246.66,24.0,4.0,2.6490066225165565,1921.0,2024-11-29,Hyderabad,Desktop,learn data analytics
+A1558,DataAnalyticsCourse,187.0,5400.0,210.0,14.0,7.0,3.7433155080213902,1945.0,2024-11-15,Hyderabad,desktop,analytics for data
+A1562,DataAnalyticsCourse,155.0,3864.0,222.17,12.0,3.0,1.935483870967742,1407.0,2024-11-21,Hyderabad,mobile,data anaytics training
+A1564,Data Analytcis Course,81.0,5659.0,222.98,25.0,4.0,4.938271604938271,1654.0,2024-11-19,Hyderabad,TABLET,data analitics online
+A1565,Data Analytics Corse,125.0,4794.0,215.57,28.0,7.0,5.6000000000000005,1453.0,2024-11-22,Hyderabad,DESKTOP,data analitics online
+A1569,Data Analytcis Course,148.0,3883.0,181.4,30.0,4.0,2.7027027027027026,1966.0,2024-11-16,Hyderabad,DESKTOP,analytics for data
+A1570,DataAnalyticsCourse,92.0,4605.0,234.69,29.0,3.0,3.260869565217391,1264.0,2024-11-30,Hyderabad,mobile,data anaytics training
+A1571,Data Anlytics Corse,147.0,4507.0,205.83,25.0,8.0,5.442176870748299,1728.0,2024-11-02,Hyderabad,desktop,data analytics course
+A1574,DataAnalyticsCourse,173.0,4507.0,241.61,28.0,3.0,1.7341040462427744,1191.0,2024-11-13,Hyderabad,TABLET,learn data analytics
+A1576,Data Analytcis Course,129.0,5874.0,200.17,12.0,5.0,3.875968992248062,1405.0,2024-11-29,Hyderabad,Tablet,online data analytic
+A1579,Data Analytcis Course,92.0,4327.0,188.6,14.0,7.0,7.608695652173914,1140.0,2024-11-22,Hyderabad,Tablet,data anaytics training
+A1581,Data Analytcis Course,146.0,4484.0,194.67,27.0,9.0,6.164383561643835,1234.0,2024-11-02,Hyderabad,tablet,data anaytics training
+A1582,Data Anlytics Corse,178.0,4311.0,205.46,18.0,4.0,2.247191011235955,1671.0,2024-11-18,Hyderabad,Tablet,analytics for data
+A1584,Data Anlytics Corse,176.0,3110.0,205.23,23.0,5.0,2.840909090909091,1746.0,2024-11-19,Hyderabad,DESKTOP,online data analytic
+A1592,Data Analytcis Course,174.0,4507.0,227.96,25.0,5.0,2.8735632183908044,1566.0,2024-11-15,Hyderabad,Tablet,online data analytic
+A1594,Data Analytics Corse,128.0,4729.0,243.45,25.0,9.0,7.03125,1782.0,2024-11-23,Hyderabad,desktop,learn data analytics
+A1595,Data Analytcis Course,163.0,5371.0,215.89,29.0,7.0,4.294478527607362,1906.0,2024-11-05,Hyderabad,TABLET,data analytics course
+A1596,Data Analytics Corse,183.0,5268.0,203.65,17.0,5.0,2.73224043715847,1731.0,2024-11-12,Hyderabad,Mobile,learn data analytics
+A1599,Data Analytics Corse,174.0,3031.0,242.32,25.0,6.0,3.4482758620689653,1381.0,2024-11-08,Hyderabad,MOBILE,online data analytic
+A1600,Data Anlytics Corse,142.0,5999.0,214.05,27.0,7.0,4.929577464788732,1064.0,2024-11-21,Hyderabad,desktop,analytics for data
+A1602,Data Analytics Corse,118.0,5889.0,193.01,17.0,10.0,8.47457627118644,1789.0,2024-11-10,Hyderabad,DESKTOP,online data analytic
+A1606,Data Anlytics Corse,173.0,5233.0,229.38,28.0,7.0,4.046242774566474,1322.0,2024-11-16,Hyderabad,MOBILE,learn data analytics
+A1608,Data Anlytics Corse,105.0,4691.0,213.15,21.0,3.0,2.857142857142857,1276.0,2024-11-22,Hyderabad,desktop,analytics for data
+A1611,Data Analytcis Course,110.0,4430.0,197.84,23.0,5.0,4.545454545454546,1505.0,2024-11-15,Hyderabad,Mobile,learn data analytics
+A1612,Data Analytcis Course,193.0,4860.0,181.27,14.0,5.0,2.5906735751295336,1505.0,2024-11-16,Hyderabad,desktop,online data analytic
+A1614,Data Analytics Corse,141.0,5000.0,223.7,29.0,10.0,7.092198581560284,1909.0,2024-11-12,Hyderabad,TABLET,data analitics online
+A1616,Data Analytcis Course,179.0,4236.0,245.01,23.0,7.0,3.910614525139665,1822.0,2024-11-07,Hyderabad,Mobile,learn data analytics
+A1619,Data Anlytics Corse,85.0,5247.0,219.97,15.0,7.0,8.235294117647058,1612.0,2024-11-20,Hyderabad,desktop,analytics for data
+A1620,Data Anlytics Corse,179.0,3685.0,202.66,15.0,7.0,3.910614525139665,1634.0,2024-11-18,Hyderabad,DESKTOP,data analytics course
+A1623,DataAnalyticsCourse,140.0,3423.0,223.95,30.0,4.0,2.857142857142857,1480.0,2024-11-03,Hyderabad,DESKTOP,analytics for data
+A1628,Data Anlytics Corse,178.0,3370.0,180.66,25.0,9.0,5.056179775280898,1830.0,2024-11-24,Hyderabad,DESKTOP,online data analytic
+A1633,Data Analytcis Course,106.0,4740.0,229.13,19.0,3.0,2.8301886792452833,1149.0,2024-11-11,Hyderabad,Desktop,online data analytic
+A1635,Data Analytcis Course,111.0,4161.0,185.58,10.0,7.0,6.306306306306306,1434.0,2024-11-04,Hyderabad,desktop,data anaytics training
+A1638,Data Anlytics Corse,146.0,5457.0,215.57,15.0,5.0,3.4246575342465753,1029.0,2024-11-02,Hyderabad,desktop,data analytics course
+A1641,Data Analytcis Course,82.0,3454.0,228.02,30.0,7.0,8.536585365853659,1463.0,2024-11-09,Hyderabad,Desktop,learn data analytics
+A1643,Data Analytcis Course,199.0,4287.0,235.58,12.0,10.0,5.025125628140704,1276.0,2024-11-10,Hyderabad,tablet,data analytics course
+A1644,DataAnalyticsCourse,123.0,5000.0,187.67,25.0,3.0,2.4390243902439024,1351.0,2024-11-07,Hyderabad,tablet,data analitics online
+A1645,DataAnalyticsCourse,154.0,3437.0,211.63,28.0,4.0,2.5974025974025974,1604.0,2024-11-14,Hyderabad,Tablet,data anaytics training
+A1648,Data Analytics Corse,87.0,3639.0,220.76,22.0,3.0,3.4482758620689653,1231.0,2024-11-14,Hyderabad,mobile,analytics for data
+A1650,Data Analytcis Course,137.0,5400.0,180.04,10.0,10.0,7.2992700729927,1375.0,2024-11-29,Hyderabad,TABLET,analytics for data
+A1651,DataAnalyticsCourse,188.0,5528.0,245.03,13.0,10.0,5.319148936170213,1202.0,2024-11-29,Hyderabad,desktop,analytics for data
+A1652,Data Anlytics Corse,162.0,5456.0,193.69,10.0,6.0,3.7037037037037033,1992.0,2024-11-29,Hyderabad,tablet,online data analytic
+A1653,Data Analytcis Course,102.0,4308.0,221.54,13.0,7.0,6.862745098039216,1096.0,2024-11-08,Hyderabad,Mobile,data analitics online
+A1658,Data Analytcis Course,91.0,4506.0,195.99,12.0,3.0,3.296703296703297,1179.0,2024-11-22,Hyderabad,Tablet,learn data analytics
+A1659,DataAnalyticsCourse,87.0,4869.0,220.97,29.0,5.0,5.747126436781609,1480.0,2024-11-05,Hyderabad,DESKTOP,data anaytics training
+A1665,Data Anlytics Corse,181.0,4150.0,236.69,15.0,5.0,2.7624309392265194,1251.0,2024-11-10,Hyderabad,MOBILE,data analitics online
+A1668,Data Analytics Corse,125.0,5767.0,215.57,12.0,8.0,6.4,1020.0,2024-11-19,Hyderabad,Tablet,data analitics online
+A1669,Data Anlytics Corse,163.0,4507.0,215.57,11.0,3.0,1.8404907975460123,1819.0,2024-11-20,Hyderabad,TABLET,data anaytics training
+A1670,Data Analytics Corse,129.0,3787.0,229.81,10.0,6.0,4.651162790697675,1221.0,2024-11-13,Hyderabad,desktop,online data analytic
+A1672,Data Analytcis Course,104.0,3031.0,188.47,13.0,6.0,5.769230769230769,1998.0,2024-11-05,Hyderabad,desktop,data anaytics training
+A1673,DataAnalyticsCourse,132.0,3754.0,180.88,21.0,10.0,7.575757575757576,1601.0,2024-11-24,Hyderabad,Mobile,online data analytic
+A1679,Data Anlytics Corse,116.0,4538.0,221.74,23.0,9.0,7.758620689655173,1639.0,2024-11-24,Hyderabad,Desktop,data anaytics training
+A1681,DataAnalyticsCourse,96.0,3346.0,248.48,15.0,7.0,7.291666666666667,1118.0,2024-11-28,Hyderabad,desktop,data analitics online
+A1689,Data Analytics Corse,104.0,5291.0,186.93,19.0,10.0,9.615384615384617,1805.0,2024-11-29,Hyderabad,tablet,data analytics course
+A1690,Data Analytcis Course,101.0,4840.0,230.68,21.0,9.0,8.91089108910891,1556.0,2024-11-22,Hyderabad,Desktop,data anaytics training
+A1691,Data Analytcis Course,173.0,4246.0,202.95,27.0,3.0,1.7341040462427744,1276.0,2024-11-29,Hyderabad,tablet,learn data analytics
+A1697,Data Analytcis Course,90.0,4566.0,228.82,29.0,9.0,10.0,1697.0,2024-11-13,Hyderabad,Desktop,data anaytics training
+A1698,Data Anlytics Corse,111.0,4245.0,245.76,22.0,8.0,7.207207207207207,1505.0,2024-11-07,Hyderabad,desktop,online data analytic
+A1701,Data Anlytics Corse,188.0,5336.0,188.73,17.0,3.0,1.5957446808510638,1601.0,2024-11-03,Hyderabad,TABLET,online data analytic
+A1703,Data Analytcis Course,94.0,4544.0,235.77,23.0,8.0,8.51063829787234,1342.0,2024-11-05,Hyderabad,tablet,online data analytic
+A1708,Data Analytcis Course,163.0,5310.0,242.76,26.0,9.0,5.521472392638037,1793.0,2024-11-12,Hyderabad,mobile,learn data analytics
+A1709,Data Anlytics Corse,147.0,5014.0,193.08,12.0,8.0,5.442176870748299,1017.0,2024-11-11,Hyderabad,tablet,online data analytic
+A1711,DataAnalyticsCourse,140.0,5916.0,234.46,17.0,6.0,4.285714285714286,1982.0,2024-11-02,Hyderabad,desktop,data analytics course
+A1715,Data Analytcis Course,126.0,5460.0,210.83,24.0,10.0,7.936507936507936,1326.0,2024-11-14,Hyderabad,TABLET,online data analytic
+A1716,Data Analytics Corse,110.0,3159.0,197.92,26.0,10.0,9.090909090909092,1608.0,2024-11-18,Hyderabad,MOBILE,data analitics online
+A1728,DataAnalyticsCourse,138.0,4025.0,220.96,21.0,7.0,5.072463768115942,1416.0,2024-11-24,Hyderabad,tablet,data analitics online
+A1729,Data Analytcis Course,193.0,3800.0,199.76,27.0,9.0,4.66321243523316,1393.0,2024-11-17,Hyderabad,mobile,data analytics course
+A1731,DataAnalyticsCourse,142.0,3565.0,180.39,26.0,5.0,3.5211267605633805,1147.0,2024-11-01,Hyderabad,tablet,data anaytics training
+A1738,Data Analytics Corse,146.0,5297.0,198.89,30.0,8.0,5.47945205479452,2000.0,2024-11-02,Hyderabad,desktop,data anaytics training
+A1744,Data Analytics Corse,176.0,5868.0,184.46,20.0,4.0,2.272727272727273,1229.0,2024-11-20,Hyderabad,desktop,data analytics course
+A1745,Data Anlytics Corse,111.0,3050.0,208.87,10.0,7.0,6.306306306306306,1774.0,2024-11-26,Hyderabad,TABLET,analytics for data
+A1746,Data Anlytics Corse,186.0,5301.0,215.57,14.0,9.0,4.838709677419355,1230.0,2024-11-17,Hyderabad,desktop,learn data analytics
+A1752,Data Anlytics Corse,145.0,3874.0,215.57,10.0,10.0,6.896551724137931,1153.0,2024-11-30,Hyderabad,Mobile,data anaytics training
+A1756,Data Anlytics Corse,140.0,4373.0,199.32,16.0,5.0,3.571428571428571,1150.0,2024-11-02,Hyderabad,desktop,data anaytics training
+A1757,DataAnalyticsCourse,140.0,4507.0,234.85,11.0,8.0,5.714285714285714,1398.0,2024-11-04,Hyderabad,Desktop,data anaytics training
+A1761,Data Analytcis Course,148.0,5510.0,210.42,27.0,4.0,2.7027027027027026,1352.0,2024-11-06,Hyderabad,MOBILE,learn data analytics
+A1762,Data Anlytics Corse,103.0,5628.0,195.6,24.0,8.0,7.766990291262135,1065.0,2024-11-09,Hyderabad,MOBILE,analytics for data
+A1763,Data Analytcis Course,115.0,5445.0,183.55,21.0,7.0,6.086956521739131,1721.0,2024-11-07,Hyderabad,TABLET,data analytics course
+A1767,DataAnalyticsCourse,172.0,3334.0,243.12,30.0,9.0,5.232558139534884,1505.0,2024-11-08,Hyderabad,Mobile,online data analytic
+A1768,DataAnalyticsCourse,172.0,5546.0,241.81,24.0,10.0,5.813953488372093,1681.0,2024-11-03,Hyderabad,Desktop,learn data analytics
+A1770,Data Analytics Corse,196.0,4964.0,249.47,26.0,9.0,4.591836734693878,1996.0,2024-11-19,Hyderabad,Mobile,learn data analytics
+A1772,Data Analytics Corse,103.0,5244.0,205.9,22.0,7.0,6.796116504854369,1954.0,2024-11-16,Hyderabad,Mobile,analytics for data
+A1778,DataAnalyticsCourse,87.0,5506.0,188.77,11.0,5.0,5.747126436781609,1774.0,2024-11-22,Hyderabad,MOBILE,learn data analytics
+A1779,Data Analytcis Course,140.0,4798.0,198.45,20.0,10.0,7.142857142857142,1937.0,2024-11-14,Hyderabad,MOBILE,data anaytics training
+A1780,Data Anlytics Corse,139.0,5763.0,214.49,15.0,5.0,3.597122302158273,1781.0,2024-11-01,Hyderabad,DESKTOP,data analitics online
+A1781,Data Analytcis Course,193.0,3271.0,187.76,30.0,9.0,4.66321243523316,1209.0,2024-11-13,Hyderabad,Tablet,online data analytic
+A1785,DataAnalyticsCourse,197.0,4373.0,218.3,18.0,9.0,4.568527918781726,1988.0,2024-11-14,Hyderabad,Desktop,learn data analytics
+A1787,DataAnalyticsCourse,96.0,5503.0,243.51,11.0,6.0,6.25,1687.0,2024-11-02,Hyderabad,Desktop,data analitics online
+A1789,Data Anlytics Corse,162.0,5161.0,240.72,16.0,7.0,4.320987654320987,1649.0,2024-11-15,Hyderabad,TABLET,learn data analytics
+A1791,Data Analytics Corse,110.0,4161.0,204.28,16.0,10.0,9.090909090909092,1447.0,2024-11-14,Hyderabad,mobile,data analitics online
+A1792,Data Analytics Corse,103.0,5332.0,243.72,16.0,3.0,2.912621359223301,1882.0,2024-11-28,Hyderabad,desktop,online data analytic
+A1794,DataAnalyticsCourse,132.0,4117.0,239.04,28.0,3.0,2.272727272727273,1761.0,2024-11-07,Hyderabad,mobile,analytics for data
+A1806,Data Anlytics Corse,186.0,5073.0,233.58,15.0,4.0,2.1505376344086025,1965.0,2024-11-04,Hyderabad,tablet,online data analytic
+A1808,DataAnalyticsCourse,150.0,3323.0,227.55,14.0,4.0,2.666666666666667,1931.0,2024-11-18,Hyderabad,MOBILE,data analytics course
+A1813,Data Anlytics Corse,181.0,3863.0,180.12,17.0,7.0,3.867403314917127,1892.0,2024-11-28,Hyderabad,DESKTOP,data analytics course
+A1815,Data Analytcis Course,173.0,5463.0,232.38,17.0,5.0,2.8901734104046244,1568.0,2024-11-26,Hyderabad,Desktop,analytics for data
+A1818,Data Analytcis Course,135.0,4645.0,182.94,12.0,7.0,5.185185185185185,1927.0,2024-11-30,Hyderabad,Desktop,online data analytic
+A1819,DataAnalyticsCourse,169.0,3317.0,232.35,29.0,3.0,1.7751479289940828,1988.0,2024-11-24,Hyderabad,Mobile,data anaytics training
+A1820,Data Analytcis Course,120.0,3235.0,220.67,11.0,4.0,3.3333333333333335,1890.0,2024-11-17,Hyderabad,mobile,learn data analytics
+A1829,DataAnalyticsCourse,109.0,4941.0,242.54,18.0,9.0,8.256880733944955,1278.0,2024-11-11,Hyderabad,desktop,data anaytics training
+A1835,Data Analytcis Course,88.0,3733.0,244.35,12.0,8.0,9.090909090909092,1622.0,2024-11-27,Hyderabad,Mobile,online data analytic
+A1841,Data Anlytics Corse,122.0,5774.0,224.4,23.0,10.0,8.19672131147541,1330.0,2024-11-14,Hyderabad,MOBILE,learn data analytics
+A1843,Data Analytcis Course,157.0,4414.0,240.57,17.0,9.0,5.7324840764331215,1483.0,2024-11-27,Hyderabad,Desktop,learn data analytics
+A1853,DataAnalyticsCourse,82.0,4163.0,208.08,30.0,8.0,9.75609756097561,1297.0,2024-11-04,Hyderabad,MOBILE,data analytics course
+A1854,Data Analytics Corse,90.0,4330.0,249.24,20.0,4.0,4.444444444444445,1618.0,2024-11-15,Hyderabad,tablet,data anaytics training
+A1855,Data Anlytics Corse,122.0,5882.0,189.76,25.0,7.0,5.737704918032787,1357.0,2024-11-25,Hyderabad,Tablet,analytics for data
+A1858,Data Analytcis Course,91.0,5609.0,228.27,12.0,10.0,10.989010989010989,1098.0,2024-11-11,Hyderabad,desktop,analytics for data
+A1859,Data Anlytics Corse,168.0,4390.0,195.52,22.0,10.0,5.952380952380952,1553.0,2024-11-04,Hyderabad,DESKTOP,data analytics course
+A1861,DataAnalyticsCourse,130.0,5787.0,218.79,13.0,10.0,7.6923076923076925,1679.0,2024-11-09,Hyderabad,MOBILE,online data analytic
+A1863,Data Analytics Corse,142.0,4223.0,222.28,27.0,5.0,3.5211267605633805,1506.0,2024-11-07,Hyderabad,desktop,learn data analytics
+A1865,Data Analytics Corse,186.0,3988.0,237.69,15.0,5.0,2.6881720430107525,1603.0,2024-11-14,Hyderabad,TABLET,data analytics course
+A1867,Data Analytics Corse,85.0,3718.0,224.14,21.0,6.0,7.0588235294117645,1938.0,2024-11-04,Hyderabad,Desktop,online data analytic
+A1868,Data Analytics Corse,115.0,5343.0,239.92,20.0,8.0,6.956521739130435,1381.0,2024-11-15,Hyderabad,desktop,learn data analytics
+A1871,Data Analytics Corse,175.0,4958.0,245.96,22.0,10.0,5.714285714285714,1777.0,2024-11-21,Hyderabad,Mobile,online data analytic
+A1874,Data Anlytics Corse,140.0,4539.0,244.4,18.0,6.0,4.285714285714286,1638.0,2024-11-28,Hyderabad,Mobile,analytics for data
+A1878,Data Anlytics Corse,93.0,3015.0,232.01,21.0,4.0,4.301075268817205,1770.0,2024-11-26,Hyderabad,Mobile,learn data analytics
+A1883,Data Analytics Corse,122.0,5179.0,215.57,11.0,4.0,3.278688524590164,1507.0,2024-11-18,Hyderabad,tablet,analytics for data
+A1885,Data Anlytics Corse,140.0,5297.0,223.9,28.0,6.0,4.285714285714286,1630.0,2024-11-21,Hyderabad,mobile,data analytics course
+A1891,Data Analytics Corse,138.0,4381.0,191.55,28.0,7.0,5.072463768115942,1756.0,2024-11-01,Hyderabad,Tablet,data anaytics training
+A1894,Data Anlytics Corse,111.0,4026.0,229.01,13.0,3.0,2.7027027027027026,1438.0,2024-11-01,Hyderabad,Desktop,learn data analytics
+A1895,DataAnalyticsCourse,184.0,5560.0,189.14,14.0,6.0,3.260869565217391,1250.0,2024-11-17,Hyderabad,tablet,data analitics online
+A1896,Data Anlytics Corse,128.0,4500.0,188.21,10.0,3.0,2.34375,1087.0,2024-11-14,Hyderabad,Desktop,online data analytic
+A1900,Data Analytics Corse,91.0,3721.0,231.45,24.0,6.0,6.593406593406594,1505.0,2024-11-14,Hyderabad,tablet,online data analytic
+A1901,DataAnalyticsCourse,143.0,4143.0,191.68,20.0,5.0,3.4965034965034967,1460.0,2024-11-30,Hyderabad,tablet,analytics for data
+A1904,Data Analytcis Course,134.0,3623.0,221.65,19.0,5.0,3.731343283582089,1937.0,2024-11-24,Hyderabad,Desktop,data analitics online
+A1906,Data Anlytics Corse,170.0,3144.0,215.57,21.0,3.0,1.7647058823529411,1695.0,2024-11-05,Hyderabad,desktop,data analitics online
+A1908,Data Analytcis Course,169.0,3619.0,246.66,28.0,3.0,1.7751479289940828,1354.0,2024-11-25,Hyderabad,desktop,online data analytic
+A1909,Data Anlytics Corse,172.0,4696.0,242.17,26.0,3.0,1.744186046511628,1719.0,2024-11-06,Hyderabad,desktop,data analytics course
+A1914,Data Analytcis Course,174.0,3570.0,222.65,25.0,3.0,1.7241379310344827,1505.0,2024-11-19,Hyderabad,tablet,learn data analytics
+A1915,DataAnalyticsCourse,122.0,4632.0,236.57,13.0,6.0,4.918032786885246,1001.0,2024-11-15,Hyderabad,DESKTOP,data analytics course
+A1928,Data Analytcis Course,126.0,3613.0,208.74,18.0,7.0,5.555555555555555,1106.0,2024-11-06,Hyderabad,DESKTOP,learn data analytics
+A1931,Data Anlytics Corse,158.0,4519.0,191.84,26.0,4.0,2.5316455696202533,1505.0,2024-11-29,Hyderabad,DESKTOP,data analitics online
+A1932,DataAnalyticsCourse,80.0,3777.0,199.52,12.0,7.0,8.75,1694.0,2024-11-22,Hyderabad,Desktop,learn data analytics
+A1935,Data Analytics Corse,149.0,3471.0,242.14,23.0,4.0,2.684563758389262,1937.0,2024-11-19,Hyderabad,Desktop,data anaytics training
+A1939,Data Anlytics Corse,153.0,3285.0,226.26,12.0,7.0,4.57516339869281,1838.0,2024-11-21,Hyderabad,DESKTOP,online data analytic
+A1940,DataAnalyticsCourse,142.0,3431.0,235.09,19.0,7.0,4.929577464788732,1334.0,2024-11-08,Hyderabad,DESKTOP,data analitics online
+A1941,Data Anlytics Corse,91.0,4600.0,194.14,19.0,7.0,7.6923076923076925,1255.0,2024-11-19,Hyderabad,mobile,data analitics online
+A1943,DataAnalyticsCourse,115.0,5472.0,230.29,26.0,4.0,3.4782608695652173,1275.0,2024-11-07,Hyderabad,MOBILE,learn data analytics
+A1948,Data Analytcis Course,116.0,4224.0,245.99,10.0,5.0,4.310344827586207,1054.0,2024-11-05,Hyderabad,tablet,data analitics online
+A1952,Data Anlytics Corse,167.0,5588.0,181.95,18.0,9.0,5.389221556886228,1505.0,2024-11-23,Hyderabad,tablet,data anaytics training
+A1953,Data Analytics Corse,186.0,4689.0,204.31,26.0,6.0,3.225806451612903,1936.0,2024-11-21,Hyderabad,Desktop,data analitics online
+A1956,Data Analytics Corse,185.0,3719.0,245.91,17.0,9.0,4.864864864864865,1218.0,2024-11-09,Hyderabad,MOBILE,online data analytic
+A1957,Data Anlytics Corse,162.0,3337.0,200.94,11.0,9.0,5.555555555555555,1820.0,2024-11-16,Hyderabad,mobile,data analytics course
+A1967,DataAnalyticsCourse,156.0,4771.0,199.3,26.0,8.0,5.128205128205128,1823.0,2024-11-04,Hyderabad,Tablet,data analitics online
+A1973,Data Anlytics Corse,145.0,3804.0,236.92,29.0,8.0,5.517241379310345,1328.0,2024-11-23,Hyderabad,TABLET,data analytics course
+A1975,Data Analytics Corse,156.0,3273.0,189.36,14.0,6.0,3.8461538461538463,1860.0,2024-11-15,Hyderabad,MOBILE,data analitics online
+A1978,DataAnalyticsCourse,106.0,3102.0,214.56,12.0,7.0,6.60377358490566,1881.0,2024-11-25,Hyderabad,MOBILE,learn data analytics
+A1980,Data Analytics Corse,93.0,4054.0,244.73,11.0,8.0,8.60215053763441,1066.0,2024-11-24,Hyderabad,desktop,online data analytic
+A1982,Data Analytics Corse,135.0,4430.0,196.18,12.0,9.0,6.666666666666667,1374.0,2024-11-08,Hyderabad,mobile,analytics for data
+A1983,Data Analytcis Course,138.0,5356.0,204.86,15.0,9.0,6.521739130434782,1268.0,2024-11-22,Hyderabad,Mobile,online data analytic
+A1985,DataAnalyticsCourse,151.0,5301.0,232.06,13.0,9.0,5.960264900662252,1893.0,2024-11-05,Hyderabad,MOBILE,data analitics online
+A1986,DataAnalyticsCourse,189.0,3031.0,209.84,25.0,6.0,3.1746031746031744,1936.0,2024-11-26,Hyderabad,tablet,online data analytic
+A1990,Data Analytics Corse,94.0,5435.0,231.42,21.0,5.0,5.319148936170213,1114.0,2024-11-03,Hyderabad,desktop,data analitics online
+A1995,DataAnalyticsCourse,106.0,4738.0,196.7,17.0,4.0,3.7735849056603774,1515.0,2024-11-29,Hyderabad,TABLET,data anaytics training
+A1998,DataAnalyticsCourse,120.0,4303.0,202.8,21.0,4.0,3.3333333333333335,1033.0,2024-11-26,Hyderabad,tablet,online data analytic
+A1999,Data Analytcis Course,189.0,5201.0,210.87,21.0,10.0,5.291005291005291,1560.0,2024-11-11,Hyderabad,Mobile,data analytics course
+A2005,Data Anlytics Corse,140.0,3689.0,249.33,20.0,9.0,6.428571428571428,1329.0,2024-11-22,Hyderabad,Mobile,learn data analytics
+A2008,Data Anlytics Corse,139.0,4036.0,242.12,25.0,5.0,3.597122302158273,1329.0,2024-11-26,Hyderabad,tablet,learn data analytics
+A2009,Data Analytics Corse,142.0,4497.0,198.98,27.0,3.0,2.112676056338028,1582.0,2024-11-30,Hyderabad,Tablet,analytics for data
+A2011,Data Analytcis Course,140.0,5849.0,215.57,27.0,3.0,2.142857142857143,1146.0,2024-11-25,Hyderabad,tablet,learn data analytics
+A2018,Data Analytcis Course,121.0,3366.0,246.56,25.0,7.0,5.785123966942149,1170.0,2024-11-02,Hyderabad,DESKTOP,online data analytic
+A2019,Data Analytcis Course,153.0,3381.0,231.35,29.0,5.0,3.2679738562091507,1769.0,2024-11-28,Hyderabad,TABLET,data analytics course
+A2024,Data Analytics Corse,96.0,3958.0,238.06,17.0,4.0,4.166666666666666,1750.0,2024-11-07,Hyderabad,mobile,online data analytic
+A2026,Data Analytcis Course,132.0,5514.0,208.57,16.0,7.0,5.303030303030303,1072.0,2024-11-26,Hyderabad,Mobile,online data analytic
+A2029,Data Anlytics Corse,82.0,4330.0,228.68,18.0,8.0,9.75609756097561,1510.0,2024-11-04,Hyderabad,DESKTOP,analytics for data
+A2037,DataAnalyticsCourse,164.0,5403.0,213.0,11.0,8.0,4.878048780487805,1505.0,2024-11-22,Hyderabad,Desktop,analytics for data
+A2039,Data Analytics Corse,116.0,5757.0,218.69,10.0,7.0,6.0344827586206895,1834.0,2024-11-23,Hyderabad,MOBILE,online data analytic
+A2041,Data Analytcis Course,164.0,4053.0,245.26,28.0,7.0,4.2682926829268295,1384.0,2024-11-01,Hyderabad,Tablet,learn data analytics
+A2050,Data Anlytics Corse,140.0,4653.0,194.99,11.0,5.0,3.571428571428571,1928.0,2024-11-12,Hyderabad,Tablet,learn data analytics
+A2051,Data Analytcis Course,181.0,3063.0,191.03,15.0,4.0,2.209944751381215,1125.0,2024-11-21,Hyderabad,desktop,data anaytics training
+A2052,DataAnalyticsCourse,156.0,3273.0,245.27,30.0,8.0,5.128205128205128,1505.0,2024-11-05,Hyderabad,Tablet,learn data analytics
+A2053,Data Analytcis Course,128.0,4314.0,181.68,28.0,5.0,3.90625,1456.0,2024-11-25,Hyderabad,MOBILE,analytics for data
+A2054,DataAnalyticsCourse,133.0,5945.0,223.43,16.0,6.0,4.511278195488721,1329.0,2024-11-16,Hyderabad,Tablet,data anaytics training
+A2059,Data Analytcis Course,110.0,4394.0,194.23,28.0,3.0,2.727272727272727,1394.0,2024-11-25,Hyderabad,TABLET,analytics for data
+A2066,Data Analytcis Course,83.0,4883.0,228.3,29.0,10.0,12.048192771084338,1456.0,2024-11-07,Hyderabad,mobile,learn data analytics
+A2067,Data Analytcis Course,187.0,4753.0,236.03,13.0,3.0,1.6042780748663104,1906.0,2024-11-18,Hyderabad,DESKTOP,data analitics online
+A2068,Data Anlytics Corse,81.0,5653.0,245.33,23.0,8.0,9.876543209876543,1248.0,2024-11-26,Hyderabad,Mobile,data analitics online
+A2072,Data Analytics Corse,128.0,5043.0,231.72,26.0,8.0,6.25,1508.0,2024-11-26,Hyderabad,TABLET,analytics for data
+A2073,Data Analytcis Course,195.0,4529.0,200.36,25.0,7.0,3.5897435897435894,1343.0,2024-11-30,Hyderabad,TABLET,data anaytics training
+A2074,Data Analytcis Course,160.0,5751.0,215.57,28.0,4.0,2.5,1802.0,2024-11-22,Hyderabad,Mobile,learn data analytics
+A2075,DataAnalyticsCourse,176.0,4518.0,237.95,17.0,10.0,5.681818181818182,1933.0,2024-11-11,Hyderabad,desktop,analytics for data
+A2079,Data Anlytics Corse,138.0,5506.0,192.89,27.0,6.0,4.3478260869565215,1261.0,2024-11-02,Hyderabad,tablet,learn data analytics
+A2086,Data Analytics Corse,108.0,5448.0,230.17,12.0,10.0,9.25925925925926,1039.0,2024-11-19,Hyderabad,DESKTOP,data analytics course
+A2087,Data Anlytics Corse,137.0,5261.0,196.48,23.0,5.0,3.64963503649635,1227.0,2024-11-26,Hyderabad,Tablet,data anaytics training
+A2088,Data Analytics Corse,131.0,4507.0,209.38,16.0,9.0,6.870229007633588,1645.0,2024-11-12,Hyderabad,Mobile,data analitics online
+A2089,Data Analytcis Course,80.0,3760.0,236.82,13.0,4.0,5.0,1927.0,2024-11-21,Hyderabad,Desktop,learn data analytics
+A2090,Data Analytics Corse,114.0,4157.0,248.56,10.0,7.0,6.140350877192982,1671.0,2024-11-10,Hyderabad,DESKTOP,analytics for data
+A2092,Data Analytcis Course,168.0,4068.0,233.54,23.0,5.0,2.976190476190476,1636.0,2024-11-27,Hyderabad,MOBILE,analytics for data
+A2095,Data Anlytics Corse,103.0,4885.0,221.05,21.0,10.0,9.70873786407767,1505.0,2024-11-25,Hyderabad,Mobile,online data analytic
+A2096,Data Analytics Corse,140.0,5859.0,211.08,26.0,9.0,6.428571428571428,1276.0,2024-11-15,Hyderabad,DESKTOP,data anaytics training
+A2103,Data Analytcis Course,140.0,3692.0,243.6,30.0,4.0,2.857142857142857,1954.0,2024-11-01,Hyderabad,mobile,analytics for data
+A2106,DataAnalyticsCourse,101.0,3401.0,194.12,27.0,3.0,2.9702970297029703,1721.0,2024-11-11,Hyderabad,Mobile,learn data analytics
+A2110,Data Analytcis Course,188.0,4447.0,234.18,14.0,8.0,4.25531914893617,1449.0,2024-11-17,Hyderabad,Mobile,analytics for data
+A2112,Data Analytcis Course,177.0,4230.0,213.46,15.0,4.0,2.2598870056497176,1389.0,2024-11-06,Hyderabad,Desktop,analytics for data
+A2117,Data Analytics Corse,140.0,4833.0,193.96,23.0,9.0,6.428571428571428,1987.0,2024-11-16,Hyderabad,mobile,online data analytic
+A2122,Data Anlytics Corse,184.0,3908.0,240.68,15.0,7.0,3.804347826086957,1332.0,2024-11-23,Hyderabad,Tablet,analytics for data
+A2123,Data Anlytics Corse,116.0,3380.0,196.75,23.0,9.0,7.758620689655173,1434.0,2024-11-06,Hyderabad,Mobile,analytics for data
+A2124,Data Analytcis Course,152.0,3948.0,189.73,17.0,5.0,3.289473684210526,1851.0,2024-11-26,Hyderabad,mobile,analytics for data
+A2126,Data Anlytics Corse,115.0,5836.0,233.52,21.0,6.0,5.217391304347826,1301.0,2024-11-08,Hyderabad,MOBILE,learn data analytics
+A2128,Data Anlytics Corse,88.0,5781.0,246.82,21.0,6.0,6.8181818181818175,1020.0,2024-11-25,Hyderabad,Tablet,data analitics online
+A2136,Data Analytics Corse,172.0,4349.0,243.53,28.0,5.0,2.9069767441860463,1195.0,2024-11-13,Hyderabad,Tablet,online data analytic
+A2140,Data Anlytics Corse,127.0,4634.0,218.04,26.0,7.0,5.511811023622047,1410.0,2024-11-02,Hyderabad,tablet,learn data analytics
+A2143,Data Analytcis Course,161.0,5749.0,203.25,12.0,4.0,2.484472049689441,1505.0,2024-11-28,Hyderabad,tablet,online data analytic
+A2144,Data Analytics Corse,157.0,5483.0,245.31,24.0,6.0,3.821656050955414,1505.0,2024-11-22,Hyderabad,Mobile,analytics for data
+A2147,Data Analytics Corse,165.0,5937.0,220.65,23.0,6.0,3.6363636363636362,1576.0,2024-11-04,Hyderabad,MOBILE,analytics for data
+A2150,DataAnalyticsCourse,134.0,4506.0,220.09,13.0,5.0,3.731343283582089,1745.0,2024-11-29,Hyderabad,Mobile,data analitics online
+A2151,Data Analytics Corse,142.0,3147.0,190.93,13.0,5.0,3.5211267605633805,1740.0,2024-11-05,Hyderabad,Mobile,learn data analytics
+A2154,Data Anlytics Corse,171.0,4855.0,235.23,25.0,6.0,3.508771929824561,1505.0,2024-11-21,Hyderabad,Desktop,data analytics course
+A2155,Data Analytics Corse,97.0,4674.0,221.39,15.0,10.0,10.309278350515463,1332.0,2024-11-07,Hyderabad,tablet,data analytics course
+A2157,Data Anlytics Corse,129.0,5839.0,213.72,10.0,6.0,4.651162790697675,1476.0,2024-11-18,Hyderabad,DESKTOP,analytics for data
+A2158,Data Analytcis Course,178.0,3943.0,217.96,29.0,6.0,3.3707865168539324,1037.0,2024-11-15,Hyderabad,Mobile,learn data analytics
+A2160,DataAnalyticsCourse,156.0,4196.0,192.96,11.0,5.0,3.205128205128205,1504.0,2024-11-26,Hyderabad,mobile,learn data analytics
+A2163,Data Analytics Corse,156.0,5509.0,185.39,29.0,4.0,2.564102564102564,1649.0,2024-11-18,Hyderabad,MOBILE,data analitics online
+A2167,DataAnalyticsCourse,156.0,3315.0,223.22,14.0,10.0,6.41025641025641,1581.0,2024-11-20,Hyderabad,Mobile,online data analytic
+A2170,Data Anlytics Corse,167.0,4507.0,244.62,11.0,9.0,5.389221556886228,1465.0,2024-11-10,Hyderabad,TABLET,data analitics online
+A2175,Data Analytics Corse,125.0,4528.0,186.6,10.0,9.0,7.199999999999999,1167.0,2024-11-06,Hyderabad,DESKTOP,data anaytics training
+A2176,Data Analytcis Course,81.0,3946.0,202.95,10.0,7.0,8.641975308641975,1970.0,2024-11-27,Hyderabad,Mobile,data anaytics training
+A2177,DataAnalyticsCourse,112.0,4486.0,249.23,28.0,3.0,2.6785714285714284,1572.0,2024-11-26,Hyderabad,DESKTOP,analytics for data
+A2183,Data Analytics Corse,100.0,5970.0,224.79,13.0,9.0,9.0,1895.0,2024-11-15,Hyderabad,MOBILE,data anaytics training
+A2185,Data Analytics Corse,130.0,3715.0,243.34,12.0,8.0,6.153846153846154,1482.0,2024-11-01,Hyderabad,DESKTOP,data analitics online
+A2190,Data Analytics Corse,145.0,5761.0,202.07,17.0,3.0,2.0689655172413794,1037.0,2024-11-13,Hyderabad,Mobile,data analitics online
+A2192,DataAnalyticsCourse,86.0,5238.0,217.28,13.0,3.0,3.488372093023256,1610.0,2024-11-22,Hyderabad,DESKTOP,data analitics online
+A2193,Data Anlytics Corse,115.0,5116.0,227.76,24.0,3.0,2.608695652173913,1748.0,2024-11-15,Hyderabad,desktop,learn data analytics
+A2195,Data Anlytics Corse,178.0,3461.0,238.96,16.0,5.0,2.8089887640449436,1321.0,2024-11-16,Hyderabad,mobile,learn data analytics
+A2200,Data Anlytics Corse,97.0,5552.0,228.97,14.0,6.0,6.185567010309279,1304.0,2024-11-07,Hyderabad,DESKTOP,analytics for data
+A2201,Data Analytcis Course,155.0,3662.0,208.16,23.0,4.0,2.5806451612903225,1913.0,2024-11-27,Hyderabad,desktop,online data analytic
+A2203,Data Anlytics Corse,181.0,3647.0,227.37,30.0,6.0,3.314917127071823,1412.0,2024-11-30,Hyderabad,Desktop,data analytics course
+A2207,DataAnalyticsCourse,191.0,3333.0,187.71,13.0,5.0,2.6178010471204187,1360.0,2024-11-26,Hyderabad,Desktop,learn data analytics
+A2208,Data Analytics Corse,101.0,4435.0,222.49,11.0,10.0,9.900990099009901,1277.0,2024-11-21,Hyderabad,MOBILE,data anaytics training
+A2209,Data Analytcis Course,152.0,5204.0,210.28,11.0,7.0,4.605263157894736,1505.0,2024-11-23,Hyderabad,MOBILE,online data analytic
+A2212,Data Analytics Corse,199.0,5895.0,239.59,21.0,4.0,2.0100502512562812,1592.0,2024-11-30,Hyderabad,mobile,data anaytics training
+A2213,DataAnalyticsCourse,141.0,4039.0,205.8,28.0,6.0,4.25531914893617,1220.0,2024-11-08,Hyderabad,DESKTOP,data analitics online
+A2214,Data Analytcis Course,131.0,4773.0,215.36,26.0,7.0,5.343511450381679,1363.0,2024-11-08,Hyderabad,tablet,data analitics online
+A2217,Data Anlytics Corse,149.0,3323.0,197.76,23.0,4.0,2.684563758389262,1181.0,2024-11-17,Hyderabad,MOBILE,data analitics online
+A2218,Data Analytics Corse,112.0,3870.0,215.05,26.0,6.0,5.357142857142857,1483.0,2024-11-03,Hyderabad,desktop,learn data analytics
+A2221,DataAnalyticsCourse,83.0,5066.0,236.91,22.0,7.0,8.433734939759036,1505.0,2024-11-21,Hyderabad,DESKTOP,learn data analytics
+A2222,Data Analytcis Course,127.0,5947.0,209.67,27.0,3.0,2.3622047244094486,1155.0,2024-11-28,Hyderabad,Desktop,learn data analytics
+A2226,Data Analytcis Course,147.0,5228.0,210.94,12.0,9.0,6.122448979591836,1784.0,2024-11-28,Hyderabad,Desktop,data anaytics training
+A2228,DataAnalyticsCourse,196.0,3440.0,212.98,15.0,5.0,2.5510204081632653,1539.0,2024-11-26,Hyderabad,TABLET,learn data analytics
+A2229,Data Anlytics Corse,87.0,3031.0,234.25,17.0,7.0,8.045977011494253,1167.0,2024-11-05,Hyderabad,Desktop,data analitics online
+A2230,DataAnalyticsCourse,151.0,5957.0,188.22,15.0,8.0,5.298013245033113,1468.0,2024-11-25,Hyderabad,tablet,analytics for data
+A2233,Data Analytics Corse,128.0,3341.0,185.57,25.0,5.0,3.90625,1516.0,2024-11-20,Hyderabad,TABLET,online data analytic
+A2235,Data Anlytics Corse,104.0,3696.0,206.54,28.0,7.0,6.730769230769231,1985.0,2024-11-11,Hyderabad,desktop,data anaytics training
+A2238,Data Anlytics Corse,198.0,5260.0,205.53,13.0,10.0,5.05050505050505,1766.0,2024-11-12,Hyderabad,Desktop,analytics for data
+A2248,DataAnalyticsCourse,81.0,5843.0,209.54,10.0,9.0,11.11111111111111,1979.0,2024-11-09,Hyderabad,tablet,data anaytics training
+A2251,Data Anlytics Corse,84.0,4463.0,198.44,17.0,3.0,3.571428571428571,1110.0,2024-11-02,Hyderabad,MOBILE,analytics for data
+A2252,Data Anlytics Corse,119.0,4610.0,222.7,18.0,3.0,2.5210084033613445,1473.0,2024-11-18,Hyderabad,desktop,data analitics online
+A2257,Data Analytcis Course,175.0,5392.0,187.74,17.0,9.0,5.142857142857142,1015.0,2024-11-21,Hyderabad,Tablet,data analitics online
+A2260,DataAnalyticsCourse,126.0,4507.0,201.56,27.0,10.0,7.936507936507936,1122.0,2024-11-21,Hyderabad,Desktop,analytics for data
+A2263,DataAnalyticsCourse,152.0,4092.0,196.66,10.0,5.0,3.289473684210526,1396.0,2024-11-11,Hyderabad,Desktop,analytics for data
+A2272,Data Analytics Corse,175.0,5924.0,223.3,14.0,3.0,1.7142857142857144,1505.0,2024-11-04,Hyderabad,mobile,analytics for data
+A2273,DataAnalyticsCourse,97.0,3558.0,195.5,13.0,3.0,3.0927835051546393,1544.0,2024-11-11,Hyderabad,Desktop,data analytics course
+A2274,Data Analytics Corse,159.0,4208.0,236.75,13.0,8.0,5.031446540880504,1849.0,2024-11-16,Hyderabad,Tablet,data anaytics training
+A2278,DataAnalyticsCourse,83.0,5247.0,231.04,27.0,3.0,3.614457831325301,1636.0,2024-11-04,Hyderabad,desktop,data analitics online
+A2288,Data Analytics Corse,99.0,3051.0,215.57,18.0,6.0,6.0606060606060606,1762.0,2024-11-29,Hyderabad,MOBILE,online data analytic
+A2289,Data Analytcis Course,170.0,5286.0,190.65,22.0,7.0,4.117647058823529,1110.0,2024-11-09,Hyderabad,Desktop,data analitics online
+A2301,Data Analytics Corse,94.0,4242.0,208.78,14.0,5.0,5.319148936170213,1122.0,2024-11-17,Hyderabad,TABLET,learn data analytics
+A2302,Data Analytcis Course,119.0,5530.0,205.75,25.0,9.0,7.563025210084033,1725.0,2024-11-14,Hyderabad,MOBILE,analytics for data
+A2306,Data Anlytics Corse,151.0,4805.0,241.95,22.0,3.0,1.9867549668874174,1571.0,2024-11-03,Hyderabad,Tablet,online data analytic
+A2307,Data Analytcis Course,133.0,4474.0,198.99,10.0,7.0,5.263157894736842,1394.0,2024-11-03,Hyderabad,MOBILE,online data analytic
+A2308,Data Analytics Corse,105.0,5151.0,188.18,14.0,9.0,8.571428571428571,1595.0,2024-11-03,Hyderabad,tablet,online data analytic
+A2321,Data Anlytics Corse,138.0,4699.0,202.54,26.0,9.0,6.521739130434782,1133.0,2024-11-25,Hyderabad,Tablet,online data analytic
+A2322,Data Analytics Corse,96.0,3730.0,217.61,16.0,4.0,4.166666666666666,1283.0,2024-11-07,Hyderabad,Desktop,analytics for data
+A2323,DataAnalyticsCourse,127.0,5221.0,226.67,17.0,3.0,2.3622047244094486,1384.0,2024-11-03,Hyderabad,tablet,data anaytics training
+A2324,Data Analytcis Course,92.0,3299.0,188.58,11.0,9.0,9.782608695652174,1678.0,2024-11-27,Hyderabad,Desktop,data analitics online
+A2331,Data Analytics Corse,105.0,5156.0,201.01,25.0,10.0,9.523809523809524,1472.0,2024-11-11,Hyderabad,Desktop,analytics for data
+A2335,Data Analytcis Course,156.0,3218.0,235.69,28.0,6.0,3.8461538461538463,1289.0,2024-11-16,Hyderabad,Tablet,data analitics online
+A2337,DataAnalyticsCourse,177.0,3592.0,205.25,29.0,9.0,5.084745762711865,1271.0,2024-11-15,Hyderabad,Desktop,data anaytics training
+A2340,Data Analytcis Course,178.0,4507.0,203.6,12.0,3.0,1.6853932584269662,1155.0,2024-11-02,Hyderabad,tablet,analytics for data
+A2347,Data Anlytics Corse,162.0,5103.0,188.15,13.0,9.0,5.555555555555555,1264.0,2024-11-28,Hyderabad,MOBILE,analytics for data
+A2350,Data Analytcis Course,185.0,4070.0,200.95,21.0,5.0,2.7027027027027026,1503.0,2024-11-07,Hyderabad,MOBILE,online data analytic
+A2357,Data Analytics Corse,130.0,3332.0,202.06,14.0,5.0,3.8461538461538463,1184.0,2024-11-14,Hyderabad,DESKTOP,online data analytic
+A2358,Data Analytcis Course,92.0,4082.0,186.29,25.0,5.0,5.434782608695652,1046.0,2024-11-24,Hyderabad,TABLET,online data analytic
+A2360,DataAnalyticsCourse,193.0,5263.0,240.5,18.0,6.0,3.1088082901554404,1670.0,2024-11-21,Hyderabad,TABLET,online data analytic
+A2364,Data Analytcis Course,85.0,3077.0,200.16,11.0,10.0,11.76470588235294,1876.0,2024-11-23,Hyderabad,MOBILE,analytics for data
+A2368,Data Analytics Corse,140.0,4315.0,196.3,24.0,5.0,3.571428571428571,1364.0,2024-11-26,Hyderabad,Mobile,data analytics course
+A2370,DataAnalyticsCourse,197.0,3174.0,215.57,22.0,7.0,3.5532994923857872,1527.0,2024-11-14,Hyderabad,tablet,data analitics online
+A2372,DataAnalyticsCourse,90.0,3526.0,211.39,10.0,3.0,3.3333333333333335,1395.0,2024-11-20,Hyderabad,desktop,online data analytic
+A2373,Data Analytics Corse,149.0,3192.0,215.57,20.0,4.0,2.684563758389262,1708.0,2024-11-14,Hyderabad,TABLET,online data analytic
+A2379,Data Analytics Corse,194.0,5509.0,235.45,18.0,5.0,2.5773195876288657,1025.0,2024-11-12,Hyderabad,Tablet,online data analytic
+A2386,Data Anlytics Corse,154.0,3312.0,203.23,16.0,5.0,3.2467532467532463,1977.0,2024-11-04,Hyderabad,Desktop,data anaytics training
+A2391,Data Analytics Corse,197.0,5921.0,214.97,18.0,6.0,3.0456852791878175,1975.0,2024-11-14,Hyderabad,DESKTOP,learn data analytics
+A2394,Data Anlytics Corse,111.0,4647.0,247.0,15.0,4.0,3.6036036036036037,1601.0,2024-11-29,Hyderabad,Desktop,learn data analytics
+A2400,Data Anlytics Corse,174.0,4334.0,186.29,12.0,4.0,2.2988505747126435,1457.0,2024-11-22,Hyderabad,mobile,analytics for data
+A2401,Data Analytcis Course,91.0,4038.0,197.15,23.0,6.0,6.593406593406594,1000.0,2024-11-29,Hyderabad,mobile,data analitics online
+A2403,Data Analytcis Course,140.0,5803.0,203.03,16.0,8.0,5.714285714285714,1397.0,2024-11-30,Hyderabad,MOBILE,analytics for data
+A2405,Data Analytcis Course,189.0,4809.0,225.32,27.0,10.0,5.291005291005291,1324.0,2024-11-18,Hyderabad,Mobile,analytics for data
+A2407,Data Analytcis Course,159.0,3401.0,222.71,18.0,3.0,1.8867924528301887,1849.0,2024-11-05,Hyderabad,Desktop,data analitics online
+A2408,Data Analytcis Course,175.0,5561.0,231.96,20.0,8.0,4.571428571428571,1174.0,2024-11-14,Hyderabad,MOBILE,data analytics course
+A2409,DataAnalyticsCourse,175.0,5720.0,243.8,17.0,6.0,3.428571428571429,1505.0,2024-11-26,Hyderabad,desktop,data analitics online
+A2411,Data Analytcis Course,146.0,5871.0,218.69,30.0,4.0,2.73972602739726,1505.0,2024-11-22,Hyderabad,desktop,learn data analytics
+A2415,Data Analytcis Course,192.0,5720.0,243.11,30.0,9.0,4.6875,1555.0,2024-11-02,Hyderabad,Mobile,online data analytic
+A2419,DataAnalyticsCourse,169.0,4507.0,180.58,30.0,7.0,4.142011834319527,1661.0,2024-11-26,Hyderabad,mobile,data anaytics training
+A2420,Data Analytics Corse,146.0,5173.0,234.26,20.0,7.0,4.794520547945205,1089.0,2024-11-28,Hyderabad,MOBILE,online data analytic
+A2423,Data Anlytics Corse,90.0,5319.0,208.19,13.0,7.0,7.777777777777778,1719.0,2024-11-26,Hyderabad,tablet,data anaytics training
+A2425,Data Analytcis Course,125.0,3458.0,180.49,19.0,3.0,2.4,1754.0,2024-11-09,Hyderabad,TABLET,data analitics online
+A2428,Data Analytcis Course,198.0,5718.0,194.37,13.0,8.0,4.040404040404041,1118.0,2024-11-16,Hyderabad,Tablet,data anaytics training
+A2430,Data Analytics Corse,158.0,4953.0,243.07,20.0,8.0,5.063291139240507,1955.0,2024-11-04,Hyderabad,Tablet,learn data analytics
+A2433,Data Analytics Corse,198.0,5860.0,185.25,24.0,9.0,4.545454545454546,1950.0,2024-11-01,Hyderabad,Tablet,data anaytics training
+A2435,Data Anlytics Corse,193.0,5831.0,215.57,24.0,5.0,2.5906735751295336,1265.0,2024-11-14,Hyderabad,mobile,online data analytic
+A2443,Data Analytcis Course,81.0,4404.0,239.62,11.0,4.0,4.938271604938271,1814.0,2024-11-21,Hyderabad,Mobile,data analytics course
+A2454,Data Analytics Corse,189.0,5060.0,236.54,26.0,7.0,3.7037037037037033,1877.0,2024-11-10,Hyderabad,Mobile,data anaytics training
+A2459,Data Analytics Corse,105.0,4236.0,180.2,12.0,7.0,6.666666666666667,1505.0,2024-11-24,Hyderabad,MOBILE,learn data analytics
+A2462,Data Anlytics Corse,198.0,4773.0,202.54,17.0,10.0,5.05050505050505,1082.0,2024-11-19,Hyderabad,Mobile,data analitics online
+A2466,Data Analytcis Course,139.0,5879.0,197.9,24.0,4.0,2.877697841726619,1476.0,2024-11-05,Hyderabad,mobile,data analytics course
+A2469,DataAnalyticsCourse,192.0,4850.0,235.42,22.0,10.0,5.208333333333334,1124.0,2024-11-14,Hyderabad,Desktop,analytics for data
+A2474,Data Analytcis Course,140.0,3215.0,191.22,30.0,7.0,5.0,1588.0,2024-11-23,Hyderabad,desktop,analytics for data
+A2478,Data Analytcis Course,140.0,3009.0,195.17,20.0,6.0,4.285714285714286,1083.0,2024-11-23,Hyderabad,Tablet,data analitics online
+A2482,DataAnalyticsCourse,166.0,3887.0,192.0,24.0,9.0,5.421686746987952,1890.0,2024-11-13,Hyderabad,TABLET,data analytics course
+A2484,DataAnalyticsCourse,125.0,3017.0,232.51,14.0,7.0,5.6000000000000005,1510.0,2024-11-08,Hyderabad,tablet,data anaytics training
+A2486,Data Analytics Corse,151.0,3992.0,212.42,10.0,9.0,5.960264900662252,1890.0,2024-11-26,Hyderabad,Tablet,learn data analytics
+A2488,Data Analytcis Course,84.0,4051.0,196.83,21.0,4.0,4.761904761904762,1094.0,2024-11-14,Hyderabad,Mobile,online data analytic
+A2489,Data Anlytics Corse,127.0,3541.0,239.47,16.0,10.0,7.874015748031496,1474.0,2024-11-25,Hyderabad,TABLET,data anaytics training
+A2492,Data Analytics Corse,141.0,4764.0,187.72,28.0,4.0,2.8368794326241136,1428.0,2024-11-16,Hyderabad,mobile,analytics for data
+A2495,DataAnalyticsCourse,124.0,5212.0,190.83,13.0,6.0,4.838709677419355,1399.0,2024-11-07,Hyderabad,DESKTOP,data analytics course
+A2497,Data Analytics Corse,111.0,3177.0,224.51,18.0,8.0,7.207207207207207,1946.0,2024-11-25,Hyderabad,Desktop,learn data analytics
+A2500,DataAnalyticsCourse,138.0,5314.0,198.39,17.0,10.0,7.246376811594203,1250.0,2024-11-20,Hyderabad,Desktop,online data analytic
+A2502,Data Analytcis Course,183.0,3920.0,235.79,20.0,7.0,3.825136612021858,1238.0,2024-11-17,Hyderabad,mobile,data anaytics training
+A2503,Data Analytics Corse,154.0,4603.0,214.0,20.0,3.0,1.948051948051948,1709.0,2024-11-18,Hyderabad,TABLET,data analytics course
+A2507,Data Analytics Corse,170.0,5953.0,186.11,25.0,8.0,4.705882352941177,1080.0,2024-11-26,Hyderabad,MOBILE,data analitics online
+A2510,Data Anlytics Corse,145.0,4882.0,217.25,22.0,3.0,2.0689655172413794,1814.0,2024-11-19,Hyderabad,MOBILE,analytics for data
+A2511,Data Anlytics Corse,83.0,3212.0,243.86,25.0,4.0,4.819277108433735,1612.0,2024-11-19,Hyderabad,Mobile,data analytics course
+A2513,Data Analytics Corse,140.0,5227.0,222.57,27.0,3.0,2.142857142857143,1527.0,2024-11-18,Hyderabad,desktop,learn data analytics
+A2515,Data Analytics Corse,105.0,3300.0,180.25,22.0,10.0,9.523809523809524,1640.0,2024-11-21,Hyderabad,mobile,online data analytic
+A2516,DataAnalyticsCourse,181.0,4857.0,215.59,13.0,8.0,4.41988950276243,1883.0,2024-11-23,Hyderabad,DESKTOP,learn data analytics
+A2526,Data Analytcis Course,82.0,5430.0,205.46,18.0,5.0,6.097560975609756,1435.0,2024-11-30,Hyderabad,MOBILE,online data analytic
+A2527,Data Analytics Corse,164.0,5179.0,206.72,18.0,9.0,5.487804878048781,1213.0,2024-11-27,Hyderabad,TABLET,data analytics course
+A2538,Data Analytcis Course,91.0,4710.0,199.18,21.0,9.0,9.89010989010989,1431.0,2024-11-10,Hyderabad,TABLET,data analytics course
+A2543,Data Analytics Corse,151.0,5389.0,227.07,18.0,10.0,6.622516556291391,1318.0,2024-11-20,Hyderabad,desktop,data anaytics training
+A2545,DataAnalyticsCourse,120.0,3060.0,197.96,20.0,8.0,6.666666666666667,1679.0,2024-11-23,Hyderabad,TABLET,analytics for data
+A2548,DataAnalyticsCourse,151.0,4675.0,183.02,14.0,7.0,4.635761589403973,1000.0,2024-11-10,Hyderabad,mobile,analytics for data
+A2551,Data Anlytics Corse,134.0,4172.0,191.8,26.0,5.0,3.731343283582089,1170.0,2024-11-18,Hyderabad,tablet,online data analytic
+A2554,Data Anlytics Corse,160.0,5664.0,210.58,16.0,9.0,5.625,1836.0,2024-11-07,Hyderabad,mobile,data anaytics training
+A2557,DataAnalyticsCourse,159.0,5078.0,182.57,30.0,8.0,5.031446540880504,1541.0,2024-11-09,Hyderabad,Mobile,data analytics course
+A2558,Data Analytcis Course,104.0,5257.0,220.44,17.0,7.0,6.730769230769231,1462.0,2024-11-27,Hyderabad,mobile,data analitics online
+A2565,Data Analytcis Course,140.0,4896.0,207.51,17.0,7.0,5.0,1505.0,2024-11-11,Hyderabad,mobile,data analitics online
+A2566,Data Analytcis Course,80.0,5756.0,205.38,16.0,4.0,5.0,1778.0,2024-11-20,Hyderabad,desktop,online data analytic
+A2567,DataAnalyticsCourse,155.0,5696.0,236.44,13.0,3.0,1.935483870967742,1207.0,2024-11-23,Hyderabad,mobile,data analitics online
+A2571,DataAnalyticsCourse,160.0,3163.0,238.95,20.0,8.0,5.0,1569.0,2024-11-26,Hyderabad,desktop,online data analytic
+A2572,Data Analytics Corse,175.0,3732.0,231.25,16.0,10.0,5.714285714285714,1014.0,2024-11-15,Hyderabad,Mobile,learn data analytics
+A2573,Data Analytcis Course,123.0,3860.0,224.63,24.0,8.0,6.504065040650407,1800.0,2024-11-15,Hyderabad,DESKTOP,analytics for data
+A2584,Data Anlytics Corse,139.0,3944.0,215.57,29.0,3.0,2.158273381294964,1863.0,2024-11-04,Hyderabad,Tablet,analytics for data
+A2586,DataAnalyticsCourse,157.0,4127.0,200.44,30.0,8.0,5.095541401273886,1044.0,2024-11-15,Hyderabad,desktop,data anaytics training
+A2587,Data Analytcis Course,112.0,4944.0,233.83,19.0,4.0,3.571428571428571,1296.0,2024-11-27,Hyderabad,TABLET,data anaytics training
+A2588,Data Anlytics Corse,82.0,4534.0,203.89,10.0,6.0,7.317073170731707,1589.0,2024-11-26,Hyderabad,TABLET,online data analytic
+A2589,DataAnalyticsCourse,152.0,5894.0,219.23,14.0,5.0,3.289473684210526,1641.0,2024-11-13,Hyderabad,MOBILE,data anaytics training
+A2591,DataAnalyticsCourse,84.0,5573.0,215.57,23.0,6.0,7.142857142857142,1656.0,2024-11-12,Hyderabad,Desktop,online data analytic
+A2593,Data Anlytics Corse,82.0,3556.0,215.57,16.0,5.0,6.097560975609756,1331.0,2024-11-17,Hyderabad,MOBILE,data analitics online
+A2594,Data Analytcis Course,192.0,4920.0,192.15,18.0,10.0,5.208333333333334,1665.0,2024-11-09,Hyderabad,Mobile,data analitics online
+A2597,Data Analytics Corse,140.0,4507.0,182.66,22.0,10.0,7.142857142857142,1482.0,2024-11-24,Hyderabad,DESKTOP,learn data analytics
+A2598,DataAnalyticsCourse,147.0,4507.0,190.42,27.0,8.0,5.442176870748299,1073.0,2024-11-05,Hyderabad,Desktop,learn data analytics
+A2600,Data Analytcis Course,140.0,3355.0,186.9,20.0,4.0,2.857142857142857,1524.0,2024-11-10,Hyderabad,MOBILE,online data analytic
+A2601,DataAnalyticsCourse,160.0,3711.0,214.41,10.0,6.0,3.75,1550.0,2024-11-07,Hyderabad,Mobile,analytics for data
+A2606,Data Anlytics Corse,145.0,5875.0,221.0,14.0,7.0,4.827586206896552,1230.0,2024-11-24,Hyderabad,Desktop,learn data analytics
+A2607,Data Analytics Corse,118.0,3404.0,183.15,27.0,7.0,5.932203389830509,1489.0,2024-11-21,Hyderabad,tablet,learn data analytics
+A2608,Data Anlytics Corse,171.0,3567.0,233.32,27.0,4.0,2.3391812865497075,1271.0,2024-11-05,Hyderabad,desktop,analytics for data
+A2610,Data Analytcis Course,100.0,4994.0,206.32,21.0,7.0,7.000000000000001,1673.0,2024-11-20,Hyderabad,Tablet,learn data analytics
+A2611,DataAnalyticsCourse,138.0,5758.0,193.53,14.0,4.0,2.898550724637681,1902.0,2024-11-15,Hyderabad,TABLET,analytics for data
+A2613,Data Analytics Corse,125.0,3652.0,186.61,29.0,10.0,8.0,1017.0,2024-11-29,Hyderabad,mobile,learn data analytics
+A2615,Data Anlytics Corse,169.0,3142.0,236.79,18.0,7.0,4.142011834319527,1505.0,2024-11-06,Hyderabad,MOBILE,data analitics online
+A2623,Data Analytics Corse,148.0,4813.0,212.78,12.0,7.0,4.72972972972973,1833.0,2024-11-23,Hyderabad,mobile,online data analytic
+A2629,Data Anlytics Corse,128.0,4787.0,204.29,20.0,7.0,5.46875,1880.0,2024-11-29,Hyderabad,DESKTOP,data anaytics training
+A2633,Data Analytcis Course,154.0,3510.0,211.16,26.0,10.0,6.493506493506493,1167.0,2024-11-14,Hyderabad,tablet,online data analytic
+A2644,Data Analytcis Course,157.0,4111.0,208.46,27.0,8.0,5.095541401273886,1187.0,2024-11-05,Hyderabad,Tablet,data anaytics training
+A2652,Data Analytics Corse,96.0,5568.0,210.99,19.0,10.0,10.416666666666668,1317.0,2024-11-21,Hyderabad,desktop,learn data analytics
+A2656,DataAnalyticsCourse,191.0,5706.0,249.69,25.0,6.0,3.1413612565445024,1821.0,2024-11-16,Hyderabad,desktop,data analitics online
+A2657,DataAnalyticsCourse,167.0,3438.0,235.2,10.0,7.0,4.191616766467066,1229.0,2024-11-17,Hyderabad,desktop,data analitics online
+A2658,Data Anlytics Corse,191.0,3610.0,217.44,27.0,6.0,3.1413612565445024,1890.0,2024-11-23,Hyderabad,tablet,analytics for data
+A2670,Data Anlytics Corse,168.0,5414.0,221.78,19.0,8.0,4.761904761904762,1715.0,2024-11-29,Hyderabad,mobile,data anaytics training
+A2672,DataAnalyticsCourse,117.0,4716.0,213.86,26.0,4.0,3.418803418803419,1505.0,2024-11-27,Hyderabad,MOBILE,online data analytic
+A2674,Data Anlytics Corse,194.0,5273.0,201.59,15.0,10.0,5.154639175257731,1018.0,2024-11-06,Hyderabad,Mobile,data analitics online
+A2676,DataAnalyticsCourse,137.0,3149.0,195.06,17.0,6.0,4.37956204379562,1718.0,2024-11-08,Hyderabad,tablet,analytics for data
+A2677,Data Anlytics Corse,162.0,5799.0,196.39,27.0,8.0,4.938271604938271,1505.0,2024-11-13,Hyderabad,TABLET,data analitics online
+A2680,Data Analytics Corse,183.0,5659.0,191.88,12.0,7.0,3.825136612021858,1830.0,2024-11-10,Hyderabad,Mobile,analytics for data
+A2681,DataAnalyticsCourse,120.0,3629.0,197.43,12.0,7.0,5.833333333333333,1522.0,2024-11-23,Hyderabad,desktop,data anaytics training
+A2682,Data Analytcis Course,187.0,5531.0,219.88,10.0,5.0,2.6737967914438503,1807.0,2024-11-13,Hyderabad,tablet,analytics for data
+A2684,Data Analytics Corse,173.0,3190.0,226.32,13.0,7.0,4.046242774566474,1884.0,2024-11-27,Hyderabad,Mobile,online data analytic
+A2686,Data Analytcis Course,192.0,3755.0,218.14,28.0,3.0,1.5625,1121.0,2024-11-30,Hyderabad,MOBILE,online data analytic
+A2694,DataAnalyticsCourse,146.0,4624.0,212.67,19.0,9.0,6.164383561643835,1513.0,2024-11-09,Hyderabad,Mobile,data analytics course
+A2699,Data Analytcis Course,119.0,5159.0,227.36,22.0,10.0,8.403361344537815,1448.0,2024-11-16,Hyderabad,mobile,data anaytics training
+A2702,Data Analytcis Course,110.0,4907.0,247.48,12.0,10.0,9.090909090909092,1205.0,2024-11-26,Hyderabad,desktop,data anaytics training
+A2705,DataAnalyticsCourse,199.0,3060.0,237.3,19.0,9.0,4.522613065326634,1527.0,2024-11-04,Hyderabad,mobile,data analitics online
+A2706,DataAnalyticsCourse,148.0,4558.0,249.74,18.0,8.0,5.405405405405405,1554.0,2024-11-01,Hyderabad,desktop,data analytics course
+A2713,Data Analytcis Course,133.0,5580.0,248.11,17.0,5.0,3.7593984962406015,1111.0,2024-11-26,Hyderabad,TABLET,data analytics course
+A2715,Data Analytics Corse,121.0,5205.0,181.81,24.0,5.0,4.132231404958678,1555.0,2024-11-08,Hyderabad,TABLET,data analitics online
+A2725,Data Analytcis Course,162.0,3071.0,231.99,29.0,9.0,5.555555555555555,1603.0,2024-11-18,Hyderabad,Tablet,online data analytic
+A2731,Data Analytcis Course,91.0,3576.0,243.02,28.0,8.0,8.791208791208792,1567.0,2024-11-25,Hyderabad,Mobile,data anaytics training
+A2733,Data Anlytics Corse,175.0,5484.0,186.91,14.0,3.0,1.7142857142857144,1728.0,2024-11-18,Hyderabad,Desktop,analytics for data
+A2734,Data Analytcis Course,121.0,3633.0,190.82,16.0,5.0,4.132231404958678,1157.0,2024-11-16,Hyderabad,Tablet,data analitics online
+A2737,Data Analytics Corse,174.0,5282.0,240.85,10.0,4.0,2.2988505747126435,1481.0,2024-11-26,Hyderabad,tablet,data analytics course
+A2740,Data Anlytics Corse,140.0,5877.0,223.87,21.0,9.0,6.428571428571428,1866.0,2024-11-28,Hyderabad,mobile,analytics for data
+A2741,Data Analytics Corse,161.0,5656.0,237.69,12.0,4.0,2.484472049689441,1262.0,2024-11-29,Hyderabad,MOBILE,online data analytic
+A2744,Data Anlytics Corse,151.0,5067.0,199.12,13.0,5.0,3.3112582781456954,1669.0,2024-11-27,Hyderabad,mobile,data anaytics training
+A2745,Data Anlytics Corse,85.0,5612.0,245.87,12.0,7.0,8.235294117647058,1124.0,2024-11-16,Hyderabad,Mobile,learn data analytics
+A2748,Data Analytcis Course,162.0,5815.0,198.49,11.0,7.0,4.320987654320987,1468.0,2024-11-23,Hyderabad,tablet,data analytics course
+A2750,Data Analytics Corse,83.0,5973.0,224.06,25.0,9.0,10.843373493975903,1197.0,2024-11-10,Hyderabad,MOBILE,analytics for data
+A2752,DataAnalyticsCourse,134.0,5085.0,186.1,18.0,8.0,5.970149253731343,1033.0,2024-11-27,Hyderabad,mobile,data analytics course
+A2753,Data Analytcis Course,126.0,4906.0,222.92,16.0,9.0,7.142857142857142,1443.0,2024-11-25,Hyderabad,MOBILE,learn data analytics
+A2754,DataAnalyticsCourse,173.0,5082.0,198.75,16.0,3.0,1.7341040462427744,1128.0,2024-11-14,Hyderabad,tablet,analytics for data
+A2759,Data Anlytics Corse,113.0,3120.0,249.66,20.0,8.0,7.079646017699115,1895.0,2024-11-27,Hyderabad,mobile,data anaytics training
+A2760,Data Anlytics Corse,84.0,3911.0,206.06,13.0,7.0,8.333333333333332,1155.0,2024-11-18,Hyderabad,Tablet,learn data analytics
+A2761,Data Anlytics Corse,182.0,3458.0,186.51,28.0,9.0,4.945054945054945,1982.0,2024-11-01,Hyderabad,desktop,learn data analytics
+A2763,Data Analytcis Course,103.0,3844.0,232.39,13.0,7.0,6.796116504854369,1763.0,2024-11-25,Hyderabad,Mobile,learn data analytics
+A2765,Data Anlytics Corse,93.0,4998.0,201.98,17.0,8.0,8.60215053763441,1216.0,2024-11-12,Hyderabad,desktop,data analytics course
+A2767,Data Analytics Corse,121.0,5155.0,187.0,23.0,6.0,4.958677685950414,1510.0,2024-11-05,Hyderabad,TABLET,data analytics course
+A2773,Data Analytcis Course,140.0,5014.0,198.84,10.0,8.0,5.714285714285714,1474.0,2024-11-14,Hyderabad,Tablet,learn data analytics
+A2778,Data Analytics Corse,194.0,5215.0,225.13,12.0,6.0,3.0927835051546393,1107.0,2024-11-22,Hyderabad,Tablet,data analitics online
+A2781,DataAnalyticsCourse,182.0,5136.0,249.36,23.0,7.0,3.8461538461538463,1846.0,2024-11-03,Hyderabad,Desktop,learn data analytics
+A2783,Data Anlytics Corse,187.0,4674.0,201.41,18.0,9.0,4.81283422459893,1719.0,2024-11-28,Hyderabad,tablet,learn data analytics
+A2791,Data Analytics Corse,119.0,5805.0,245.13,25.0,6.0,5.042016806722689,1122.0,2024-11-13,Hyderabad,tablet,online data analytic
+A2794,Data Analytics Corse,171.0,3490.0,180.82,11.0,8.0,4.678362573099415,1497.0,2024-11-14,Hyderabad,MOBILE,data analytics course
+A2796,Data Analytics Corse,121.0,3757.0,241.14,16.0,3.0,2.479338842975207,1226.0,2024-11-11,Hyderabad,Desktop,data analitics online
+A2800,Data Anlytics Corse,127.0,3249.0,244.01,25.0,5.0,3.937007874015748,1248.0,2024-11-05,Hyderabad,Mobile,analytics for data
+A2804,DataAnalyticsCourse,110.0,3371.0,211.89,12.0,6.0,5.454545454545454,1743.0,2024-11-09,Hyderabad,tablet,data analytics course
+A2805,DataAnalyticsCourse,186.0,5126.0,182.38,25.0,7.0,3.763440860215054,1856.0,2024-11-18,Hyderabad,tablet,data analitics online
+A2807,Data Analytics Corse,169.0,3475.0,247.16,12.0,3.0,1.7751479289940828,1985.0,2024-11-12,Hyderabad,MOBILE,data anaytics training
+A2812,Data Analytics Corse,99.0,4229.0,183.7,24.0,8.0,8.080808080808081,1792.0,2024-11-19,Hyderabad,Mobile,learn data analytics
+A2815,Data Analytcis Course,149.0,3865.0,198.54,14.0,4.0,2.684563758389262,1505.0,2024-11-01,Hyderabad,tablet,data anaytics training
+A2820,DataAnalyticsCourse,155.0,4870.0,191.54,23.0,8.0,5.161290322580645,1451.0,2024-11-14,Hyderabad,Tablet,data analytics course
+A2822,DataAnalyticsCourse,141.0,3181.0,234.44,16.0,9.0,6.382978723404255,1628.0,2024-11-21,Hyderabad,DESKTOP,data anaytics training
+A2823,DataAnalyticsCourse,153.0,4153.0,234.25,18.0,5.0,3.2679738562091507,1368.0,2024-11-24,Hyderabad,Tablet,data analytics course
+A2825,Data Analytcis Course,147.0,4250.0,223.33,17.0,3.0,2.0408163265306123,1069.0,2024-11-27,Hyderabad,desktop,online data analytic
+A2826,DataAnalyticsCourse,80.0,4507.0,196.17,15.0,4.0,5.0,1252.0,2024-11-08,Hyderabad,Desktop,learn data analytics
+A2828,Data Analytics Corse,175.0,3792.0,227.98,17.0,8.0,4.571428571428571,1627.0,2024-11-04,Hyderabad,tablet,learn data analytics
+A2830,Data Anlytics Corse,119.0,4593.0,248.14,23.0,8.0,6.722689075630252,1595.0,2024-11-08,Hyderabad,Mobile,learn data analytics
+A2831,Data Anlytics Corse,146.0,4308.0,181.7,27.0,9.0,6.164383561643835,1391.0,2024-11-06,Hyderabad,tablet,analytics for data
+A2832,DataAnalyticsCourse,122.0,4676.0,202.56,25.0,8.0,6.557377049180328,1368.0,2024-11-07,Hyderabad,tablet,data analytics course
+A2834,Data Analytics Corse,130.0,3637.0,215.57,25.0,7.0,5.384615384615385,1361.0,2024-11-15,Hyderabad,Tablet,analytics for data
+A2836,Data Analytcis Course,132.0,4320.0,229.38,15.0,5.0,3.787878787878788,1557.0,2024-11-14,Hyderabad,DESKTOP,analytics for data
+A2838,Data Analytcis Course,85.0,5962.0,201.12,20.0,10.0,11.76470588235294,1728.0,2024-11-25,Hyderabad,Mobile,data analytics course
+A2841,Data Anlytics Corse,148.0,3207.0,207.16,22.0,9.0,6.081081081081082,1416.0,2024-11-28,Hyderabad,desktop,online data analytic
+A2846,Data Analytcis Course,170.0,5385.0,198.13,21.0,7.0,4.117647058823529,1174.0,2024-11-30,Hyderabad,DESKTOP,online data analytic
+A2850,Data Analytics Corse,95.0,4075.0,225.18,26.0,7.0,7.368421052631578,1763.0,2024-11-19,Hyderabad,TABLET,data analitics online
+A2855,DataAnalyticsCourse,187.0,3869.0,185.15,26.0,6.0,3.2085561497326207,1881.0,2024-11-04,Hyderabad,MOBILE,data anaytics training
+A2863,DataAnalyticsCourse,176.0,5010.0,205.47,18.0,10.0,5.681818181818182,1709.0,2024-11-24,Hyderabad,TABLET,data analytics course
+A2866,Data Anlytics Corse,132.0,3725.0,196.98,16.0,6.0,4.545454545454546,1094.0,2024-11-01,Hyderabad,DESKTOP,analytics for data
+A2867,Data Anlytics Corse,93.0,4962.0,181.34,22.0,4.0,4.301075268817205,1100.0,2024-11-30,Hyderabad,DESKTOP,analytics for data
+A2872,Data Anlytics Corse,81.0,3224.0,239.58,18.0,10.0,12.345679012345679,1229.0,2024-11-27,Hyderabad,Tablet,online data analytic
+A2875,Data Analytics Corse,103.0,5900.0,231.39,24.0,10.0,9.70873786407767,1963.0,2024-11-02,Hyderabad,MOBILE,data anaytics training
+A2879,Data Analytcis Course,123.0,4753.0,203.59,29.0,10.0,8.130081300813007,1959.0,2024-11-15,Hyderabad,Mobile,data anaytics training
+A2896,Data Anlytics Corse,91.0,4641.0,182.84,12.0,9.0,9.89010989010989,1235.0,2024-11-25,Hyderabad,mobile,data analitics online
+A2900,Data Analytcis Course,185.0,4507.0,192.6,23.0,5.0,2.7027027027027026,1180.0,2024-11-01,Hyderabad,desktop,learn data analytics
+A2902,DataAnalyticsCourse,159.0,3662.0,203.93,20.0,4.0,2.515723270440252,1776.0,2024-11-10,Hyderabad,TABLET,data analytics course
+A2904,DataAnalyticsCourse,103.0,3762.0,187.11,12.0,9.0,8.737864077669903,1096.0,2024-11-24,Hyderabad,mobile,learn data analytics
+A2910,Data Analytics Corse,140.0,4079.0,243.8,23.0,6.0,4.285714285714286,1909.0,2024-11-29,Hyderabad,TABLET,learn data analytics
+A2914,Data Analytcis Course,133.0,5487.0,243.45,22.0,7.0,5.263157894736842,1059.0,2024-11-18,Hyderabad,Desktop,data analitics online
+A2916,Data Analytics Corse,196.0,3834.0,216.22,10.0,3.0,1.530612244897959,1727.0,2024-11-03,Hyderabad,Mobile,data analitics online
+A2919,Data Anlytics Corse,199.0,5649.0,223.62,11.0,4.0,2.0100502512562812,1075.0,2024-11-22,Hyderabad,Desktop,data analytics course
+A2921,DataAnalyticsCourse,192.0,5026.0,209.89,25.0,9.0,4.6875,1981.0,2024-11-30,Hyderabad,TABLET,data analytics course
+A2925,Data Anlytics Corse,140.0,4010.0,238.31,12.0,3.0,2.142857142857143,1895.0,2024-11-05,Hyderabad,tablet,analytics for data
+A2927,Data Analytics Corse,198.0,4953.0,201.7,22.0,8.0,4.040404040404041,1716.0,2024-11-29,Hyderabad,Mobile,data anaytics training
+A2929,DataAnalyticsCourse,91.0,4394.0,215.57,21.0,7.0,7.6923076923076925,1926.0,2024-11-15,Hyderabad,tablet,online data analytic
+A2931,Data Analytcis Course,160.0,3781.0,241.99,23.0,3.0,1.875,1772.0,2024-11-05,Hyderabad,TABLET,data analitics online
+A2932,DataAnalyticsCourse,106.0,3309.0,217.2,25.0,4.0,3.7735849056603774,1507.0,2024-11-03,Hyderabad,Tablet,data analytics course
+A2939,DataAnalyticsCourse,193.0,4953.0,243.75,14.0,3.0,1.5544041450777202,1118.0,2024-11-04,Hyderabad,MOBILE,analytics for data
+A2941,Data Analytics Corse,163.0,4114.0,224.8,18.0,8.0,4.9079754601226995,1493.0,2024-11-24,Hyderabad,DESKTOP,online data analytic
+A2945,DataAnalyticsCourse,110.0,4488.0,210.69,27.0,10.0,9.090909090909092,1872.0,2024-11-12,Hyderabad,MOBILE,data anaytics training
+A2946,Data Anlytics Corse,124.0,4747.0,234.97,24.0,10.0,8.064516129032258,1505.0,2024-11-17,Hyderabad,Desktop,online data analytic
+A2952,DataAnalyticsCourse,165.0,4121.0,224.59,30.0,7.0,4.242424242424243,1569.0,2024-11-03,Hyderabad,mobile,data analytics course
+A2955,Data Analytics Corse,94.0,5751.0,205.37,10.0,9.0,9.574468085106384,1155.0,2024-11-19,Hyderabad,Tablet,data analytics course
+A2959,Data Analytcis Course,80.0,5808.0,240.44,12.0,4.0,5.0,1542.0,2024-11-16,Hyderabad,Desktop,data analitics online
+A2960,Data Anlytics Corse,166.0,5567.0,199.13,29.0,5.0,3.0120481927710845,1474.0,2024-11-08,Hyderabad,Mobile,learn data analytics
+A2961,DataAnalyticsCourse,149.0,5936.0,246.58,14.0,6.0,4.026845637583892,1396.0,2024-11-01,Hyderabad,Desktop,learn data analytics
+A2962,Data Anlytics Corse,151.0,4966.0,223.67,15.0,3.0,1.9867549668874174,1411.0,2024-11-09,Hyderabad,Tablet,analytics for data
+A2966,Data Anlytics Corse,141.0,3306.0,188.29,30.0,9.0,6.382978723404255,1561.0,2024-11-18,Hyderabad,tablet,analytics for data
+A2970,Data Analytcis Course,121.0,4638.0,198.88,14.0,6.0,4.958677685950414,1964.0,2024-11-08,Hyderabad,DESKTOP,learn data analytics
+A2976,DataAnalyticsCourse,86.0,4824.0,231.61,20.0,7.0,8.13953488372093,1390.0,2024-11-10,Hyderabad,TABLET,data analitics online
+A2978,Data Analytics Corse,145.0,3779.0,182.65,27.0,4.0,2.7586206896551726,1364.0,2024-11-24,Hyderabad,Tablet,analytics for data
+A2979,DataAnalyticsCourse,99.0,5981.0,243.89,16.0,9.0,9.090909090909092,1876.0,2024-11-11,Hyderabad,desktop,data analitics online
+A2982,DataAnalyticsCourse,153.0,4524.0,224.15,20.0,4.0,2.6143790849673203,1083.0,2024-11-05,Hyderabad,tablet,learn data analytics
+A2983,DataAnalyticsCourse,184.0,5903.0,182.5,15.0,10.0,5.434782608695652,1230.0,2024-11-25,Hyderabad,MOBILE,learn data analytics
+A2984,DataAnalyticsCourse,119.0,5050.0,180.57,12.0,8.0,6.722689075630252,1243.0,2024-11-04,Hyderabad,MOBILE,analytics for data
+A2986,DataAnalyticsCourse,168.0,4070.0,222.99,29.0,7.0,4.166666666666666,1733.0,2024-11-12,Hyderabad,MOBILE,data anaytics training
+A2987,Data Analytcis Course,140.0,5827.0,190.93,14.0,3.0,2.142857142857143,1731.0,2024-11-30,Hyderabad,Desktop,data analytics course
+A2989,DataAnalyticsCourse,112.0,4277.0,249.65,27.0,3.0,2.6785714285714284,1953.0,2024-11-26,Hyderabad,TABLET,data analitics online
+A2991,DataAnalyticsCourse,89.0,3363.0,220.07,26.0,7.0,7.865168539325842,1939.0,2024-11-09,Hyderabad,desktop,data analytics course
+A2993,Data Analytcis Course,155.0,4135.0,226.66,26.0,7.0,4.516129032258064,1442.0,2024-11-22,Hyderabad,Tablet,analytics for data
+A2999,Data Anlytics Corse,152.0,3036.0,210.78,12.0,6.0,3.9473684210526314,1074.0,2024-11-10,Hyderabad,tablet,data analitics online
+A3002,Data Analytics Corse,93.0,5346.0,197.78,15.0,8.0,8.60215053763441,1036.0,2024-11-15,Hyderabad,Tablet,data analitics online
+A3007,DataAnalyticsCourse,124.0,5402.0,222.16,21.0,7.0,5.64516129032258,1091.0,2024-11-27,Hyderabad,DESKTOP,data anaytics training
+A3010,Data Analytics Corse,144.0,3120.0,221.66,24.0,7.0,4.861111111111112,1061.0,2024-11-13,Hyderabad,MOBILE,data anaytics training
+A3017,Data Analytcis Course,136.0,3777.0,186.5,11.0,4.0,2.941176470588235,1027.0,2024-11-05,Hyderabad,MOBILE,learn data analytics
+A3020,Data Analytcis Course,134.0,5620.0,231.4,28.0,7.0,5.223880597014925,1499.0,2024-11-29,Hyderabad,desktop,data anaytics training
+A3025,DataAnalyticsCourse,118.0,5326.0,199.76,19.0,8.0,6.779661016949152,1195.0,2024-11-24,Hyderabad,TABLET,analytics for data
+A3031,Data Anlytics Corse,89.0,3148.0,219.25,13.0,4.0,4.49438202247191,1533.0,2024-11-06,Hyderabad,desktop,data analitics online
+A3035,Data Anlytics Corse,140.0,4283.0,205.02,22.0,7.0,5.0,1674.0,2024-11-11,Hyderabad,mobile,data analytics course
+A3036,DataAnalyticsCourse,137.0,4189.0,208.84,17.0,7.0,5.109489051094891,1211.0,2024-11-09,Hyderabad,Mobile,online data analytic
+A3037,Data Analytcis Course,199.0,4818.0,230.19,11.0,7.0,3.5175879396984926,1714.0,2024-11-08,Hyderabad,desktop,online data analytic
+A3038,Data Analytcis Course,95.0,5256.0,235.84,12.0,8.0,8.421052631578947,1324.0,2024-11-24,Hyderabad,Mobile,data anaytics training
+A3039,Data Analytics Corse,182.0,3980.0,191.75,16.0,5.0,2.7472527472527473,1050.0,2024-11-08,Hyderabad,TABLET,online data analytic
+A3043,Data Analytics Corse,166.0,3746.0,213.81,16.0,5.0,3.0120481927710845,1750.0,2024-11-08,Hyderabad,mobile,data analitics online
+A3044,Data Analytics Corse,121.0,5608.0,219.92,19.0,4.0,3.3057851239669422,1209.0,2024-11-14,Hyderabad,TABLET,data anaytics training
+A3047,DataAnalyticsCourse,136.0,5011.0,236.62,25.0,5.0,3.6764705882352944,1582.0,2024-11-03,Hyderabad,MOBILE,data analytics course
+A3048,Data Anlytics Corse,174.0,5864.0,190.45,26.0,5.0,2.8735632183908044,1508.0,2024-11-27,Hyderabad,Mobile,data anaytics training
+A3049,Data Analytics Corse,168.0,5114.0,186.75,10.0,3.0,1.7857142857142856,1530.0,2024-11-18,Hyderabad,desktop,online data analytic
+A3050,Data Analytics Corse,117.0,5658.0,191.48,13.0,3.0,2.564102564102564,1779.0,2024-11-25,Hyderabad,mobile,learn data analytics
+A3051,Data Analytics Corse,187.0,4876.0,192.2,16.0,5.0,2.6737967914438503,1396.0,2024-11-09,Hyderabad,TABLET,analytics for data
+A3053,Data Analytics Corse,140.0,5470.0,210.97,20.0,7.0,5.0,1928.0,2024-11-21,Hyderabad,Desktop,data analitics online
+A3055,Data Analytcis Course,124.0,4507.0,209.92,15.0,4.0,3.225806451612903,1505.0,2024-11-25,Hyderabad,desktop,data analitics online
+A3057,Data Analytcis Course,167.0,3366.0,213.02,28.0,4.0,2.3952095808383236,1159.0,2024-11-14,Hyderabad,MOBILE,data analytics course
+A3063,Data Analytics Corse,189.0,5404.0,218.41,17.0,10.0,5.291005291005291,1418.0,2024-11-24,Hyderabad,Mobile,learn data analytics
+A3068,Data Analytics Corse,121.0,5092.0,219.15,21.0,6.0,4.958677685950414,1864.0,2024-11-04,Hyderabad,Desktop,analytics for data
+A3069,Data Analytics Corse,81.0,3015.0,218.69,10.0,7.0,8.641975308641975,1550.0,2024-11-27,Hyderabad,desktop,learn data analytics
+A3071,Data Analytics Corse,188.0,5046.0,202.52,18.0,10.0,5.319148936170213,1625.0,2024-11-05,Hyderabad,TABLET,online data analytic
+A3073,Data Analytcis Course,170.0,3879.0,245.0,29.0,7.0,4.117647058823529,1202.0,2024-11-26,Hyderabad,Tablet,data analytics course
+A3079,DataAnalyticsCourse,154.0,5633.0,245.95,29.0,7.0,4.545454545454546,1604.0,2024-11-03,Hyderabad,Tablet,learn data analytics
+A3083,DataAnalyticsCourse,193.0,5716.0,224.53,19.0,9.0,4.66321243523316,1167.0,2024-11-13,Hyderabad,DESKTOP,online data analytic
+A3086,Data Analytics Corse,174.0,4469.0,215.98,14.0,8.0,4.597701149425287,1619.0,2024-11-07,Hyderabad,Desktop,online data analytic
+A3087,DataAnalyticsCourse,127.0,3454.0,209.19,19.0,10.0,7.874015748031496,1937.0,2024-11-05,Hyderabad,DESKTOP,data anaytics training
+A3089,Data Analytics Corse,113.0,4258.0,232.25,16.0,10.0,8.849557522123893,1374.0,2024-11-24,Hyderabad,mobile,online data analytic
+A3092,Data Analytcis Course,106.0,5661.0,181.96,17.0,3.0,2.8301886792452833,1250.0,2024-11-11,Hyderabad,desktop,data analitics online
+A3094,Data Analytics Corse,111.0,5382.0,219.59,29.0,5.0,4.504504504504505,1464.0,2024-11-25,Hyderabad,DESKTOP,analytics for data
+A3095,Data Analytcis Course,98.0,5898.0,186.46,20.0,6.0,6.122448979591836,1505.0,2024-11-09,Hyderabad,mobile,data analitics online
+A3097,Data Analytics Corse,109.0,3089.0,190.0,20.0,7.0,6.422018348623854,1779.0,2024-11-01,Hyderabad,Tablet,data analitics online
+A3099,Data Analytcis Course,127.0,4039.0,247.92,20.0,8.0,6.299212598425196,1505.0,2024-11-27,Hyderabad,MOBILE,learn data analytics
+A3105,Data Analytics Corse,193.0,4507.0,238.8,20.0,5.0,2.5906735751295336,1327.0,2024-11-02,Hyderabad,Mobile,data anaytics training
+A3106,Data Analytcis Course,97.0,3937.0,197.37,14.0,10.0,10.309278350515463,1160.0,2024-11-22,Hyderabad,tablet,learn data analytics
+A3107,Data Anlytics Corse,128.0,4175.0,200.11,12.0,10.0,7.8125,1599.0,2024-11-20,Hyderabad,Desktop,data analitics online
+A3109,Data Analytcis Course,140.0,3809.0,202.28,17.0,9.0,6.428571428571428,1031.0,2024-11-17,Hyderabad,Desktop,data analytics course
+A3114,DataAnalyticsCourse,183.0,4124.0,186.66,24.0,6.0,3.278688524590164,1183.0,2024-11-28,Hyderabad,TABLET,data analytics course
+A3115,Data Analytics Corse,196.0,3143.0,238.22,28.0,7.0,3.571428571428571,1234.0,2024-11-08,Hyderabad,Mobile,data analitics online
+A3117,DataAnalyticsCourse,158.0,3736.0,226.99,11.0,8.0,5.063291139240507,1606.0,2024-11-29,Hyderabad,TABLET,data anaytics training
+A3120,DataAnalyticsCourse,128.0,5022.0,188.96,26.0,6.0,4.6875,1108.0,2024-11-02,Hyderabad,mobile,data anaytics training
+A3123,DataAnalyticsCourse,86.0,4078.0,208.92,26.0,3.0,3.488372093023256,1698.0,2024-11-06,Hyderabad,MOBILE,data analytics course
+A3124,Data Analytcis Course,140.0,3052.0,245.45,24.0,6.0,4.285714285714286,1769.0,2024-11-28,Hyderabad,Desktop,data analitics online
+A3126,Data Anlytics Corse,141.0,5314.0,184.34,29.0,10.0,7.092198581560284,1271.0,2024-11-19,Hyderabad,MOBILE,online data analytic
+A3127,Data Analytics Corse,193.0,3566.0,212.73,19.0,7.0,3.6269430051813467,1311.0,2024-11-04,Hyderabad,Desktop,data analitics online
+A3130,Data Analytics Corse,147.0,4371.0,243.04,26.0,9.0,6.122448979591836,1776.0,2024-11-18,Hyderabad,DESKTOP,online data analytic
+A3136,Data Analytcis Course,108.0,3126.0,248.94,12.0,3.0,2.7777777777777777,1942.0,2024-11-16,Hyderabad,TABLET,analytics for data
+A3138,Data Analytcis Course,146.0,5712.0,221.73,26.0,5.0,3.4246575342465753,1201.0,2024-11-12,Hyderabad,Mobile,analytics for data
+A3139,DataAnalyticsCourse,89.0,4175.0,194.22,11.0,3.0,3.3707865168539324,1370.0,2024-11-22,Hyderabad,DESKTOP,data anaytics training
+A3142,DataAnalyticsCourse,87.0,3161.0,244.49,24.0,8.0,9.195402298850574,1161.0,2024-11-06,Hyderabad,tablet,data analitics online
+A3143,Data Analytics Corse,146.0,4773.0,248.27,30.0,6.0,4.10958904109589,1304.0,2024-11-01,Hyderabad,Tablet,online data analytic
+A3144,Data Anlytics Corse,140.0,3385.0,208.31,25.0,10.0,7.142857142857142,1972.0,2024-11-16,Hyderabad,MOBILE,analytics for data
+A3145,Data Analytcis Course,122.0,5600.0,223.06,12.0,3.0,2.459016393442623,1061.0,2024-11-18,Hyderabad,Tablet,learn data analytics
+A3154,Data Analytics Corse,166.0,4176.0,243.1,16.0,9.0,5.421686746987952,1147.0,2024-11-24,Hyderabad,Desktop,learn data analytics
+A3157,Data Analytcis Course,89.0,4936.0,199.91,16.0,4.0,4.49438202247191,1543.0,2024-11-14,Hyderabad,desktop,data analytics course
+A3158,DataAnalyticsCourse,180.0,3526.0,215.57,15.0,7.0,3.888888888888889,1336.0,2024-11-16,Hyderabad,Mobile,online data analytic
+A3159,Data Anlytics Corse,91.0,5509.0,186.22,29.0,5.0,5.4945054945054945,1928.0,2024-11-02,Hyderabad,MOBILE,learn data analytics
+A3163,DataAnalyticsCourse,84.0,5468.0,227.36,13.0,4.0,4.761904761904762,1228.0,2024-11-26,Hyderabad,tablet,data analytics course
+A3164,Data Anlytics Corse,182.0,4390.0,239.33,11.0,7.0,3.8461538461538463,1799.0,2024-11-27,Hyderabad,tablet,data anaytics training
+A3169,Data Anlytics Corse,116.0,4250.0,186.34,12.0,3.0,2.586206896551724,1043.0,2024-11-30,Hyderabad,DESKTOP,analytics for data
+A3174,Data Analytcis Course,182.0,3303.0,238.4,17.0,4.0,2.197802197802198,1695.0,2024-11-05,Hyderabad,desktop,data analitics online
+A3178,Data Analytcis Course,102.0,5113.0,206.65,27.0,6.0,5.88235294117647,1466.0,2024-11-19,Hyderabad,MOBILE,data analytics course
+A3180,Data Anlytics Corse,85.0,3088.0,234.24,24.0,4.0,4.705882352941177,1210.0,2024-11-07,Hyderabad,tablet,analytics for data
+A3182,DataAnalyticsCourse,96.0,5070.0,210.63,27.0,10.0,10.416666666666668,1653.0,2024-11-18,Hyderabad,Tablet,online data analytic
+A3184,DataAnalyticsCourse,151.0,3656.0,199.96,26.0,7.0,4.635761589403973,1566.0,2024-11-17,Hyderabad,Desktop,online data analytic
+A3187,Data Analytcis Course,90.0,3235.0,211.4,29.0,10.0,11.11111111111111,1290.0,2024-11-19,Hyderabad,tablet,analytics for data
+A3188,Data Analytics Corse,175.0,3832.0,245.61,27.0,5.0,2.857142857142857,1388.0,2024-11-26,Hyderabad,Desktop,data analitics online
+A3191,Data Anlytics Corse,102.0,5229.0,208.55,30.0,5.0,4.901960784313726,1065.0,2024-11-15,Hyderabad,MOBILE,analytics for data
+A3192,Data Analytcis Course,199.0,3754.0,220.16,26.0,7.0,3.5175879396984926,1262.0,2024-11-20,Hyderabad,tablet,data analytics course
+A3200,DataAnalyticsCourse,140.0,4677.0,223.74,20.0,9.0,6.428571428571428,1610.0,2024-11-04,Hyderabad,mobile,learn data analytics
+A3201,DataAnalyticsCourse,135.0,3793.0,190.88,24.0,9.0,6.666666666666667,1505.0,2024-11-19,Hyderabad,DESKTOP,data analitics online
+A3204,Data Analytics Corse,128.0,4662.0,187.28,23.0,9.0,7.03125,1710.0,2024-11-13,Hyderabad,Desktop,data anaytics training
+A3205,Data Analytcis Course,120.0,4453.0,240.34,23.0,8.0,6.666666666666667,1452.0,2024-11-26,Hyderabad,Tablet,online data analytic
+A3211,DataAnalyticsCourse,96.0,5210.0,223.05,10.0,8.0,8.333333333333332,1483.0,2024-11-29,Hyderabad,tablet,online data analytic
+A3213,Data Anlytics Corse,130.0,4109.0,207.1,19.0,6.0,4.615384615384616,1521.0,2024-11-16,Hyderabad,mobile,learn data analytics
+A3215,Data Analytcis Course,143.0,3600.0,238.14,26.0,7.0,4.895104895104895,1891.0,2024-11-09,Hyderabad,Tablet,analytics for data
+A3217,Data Analytcis Course,120.0,4507.0,214.76,29.0,5.0,4.166666666666666,1926.0,2024-11-30,Hyderabad,Mobile,data anaytics training
+A3218,Data Analytcis Course,115.0,4857.0,195.05,29.0,9.0,7.82608695652174,1644.0,2024-11-17,Hyderabad,DESKTOP,data anaytics training
+A3219,Data Anlytics Corse,175.0,5915.0,223.39,23.0,8.0,4.571428571428571,1595.0,2024-11-08,Hyderabad,TABLET,learn data analytics
+A3221,Data Analytics Corse,114.0,5446.0,207.62,11.0,8.0,7.017543859649122,1355.0,2024-11-12,Hyderabad,MOBILE,data analitics online
+A3225,Data Anlytics Corse,98.0,4302.0,183.4,16.0,9.0,9.183673469387756,1765.0,2024-11-19,Hyderabad,DESKTOP,data analytics course
+A3227,DataAnalyticsCourse,81.0,3721.0,222.89,17.0,4.0,4.938271604938271,1690.0,2024-11-15,Hyderabad,Desktop,data analytics course
+A3230,Data Analytics Corse,124.0,3924.0,188.66,24.0,6.0,4.838709677419355,1472.0,2024-11-04,Hyderabad,TABLET,data anaytics training
+A3231,Data Analytcis Course,108.0,4126.0,219.33,22.0,3.0,2.7777777777777777,1275.0,2024-11-29,Hyderabad,Mobile,data analytics course
+A3235,Data Anlytics Corse,147.0,3131.0,242.53,10.0,4.0,2.7210884353741496,1231.0,2024-11-18,Hyderabad,desktop,data analytics course
+A3236,Data Anlytics Corse,88.0,5145.0,242.9,16.0,10.0,11.363636363636363,1963.0,2024-11-14,Hyderabad,Tablet,analytics for data
+A3238,Data Analytcis Course,148.0,4149.0,223.33,30.0,6.0,4.054054054054054,1318.0,2024-11-08,Hyderabad,Tablet,data analytics course
+A3241,Data Analytics Corse,176.0,3753.0,201.76,11.0,4.0,2.272727272727273,1070.0,2024-11-07,Hyderabad,mobile,data anaytics training
+A3243,Data Analytics Corse,136.0,4332.0,234.52,19.0,6.0,4.411764705882353,1162.0,2024-11-18,Hyderabad,DESKTOP,learn data analytics
+A3244,Data Analytics Corse,150.0,4001.0,219.1,25.0,6.0,4.0,1365.0,2024-11-09,Hyderabad,TABLET,online data analytic
+A3245,Data Analytics Corse,145.0,4436.0,190.63,13.0,10.0,6.896551724137931,1502.0,2024-11-21,Hyderabad,tablet,data analytics course
+A3246,DataAnalyticsCourse,165.0,5661.0,215.57,28.0,6.0,3.6363636363636362,1848.0,2024-11-02,Hyderabad,DESKTOP,data analitics online
+A3257,Data Analytcis Course,182.0,4575.0,233.74,24.0,10.0,5.4945054945054945,1844.0,2024-11-13,Hyderabad,MOBILE,learn data analytics
+A3261,Data Anlytics Corse,165.0,3150.0,190.3,18.0,3.0,1.8181818181818181,1129.0,2024-11-18,Hyderabad,DESKTOP,data anaytics training
+A3269,DataAnalyticsCourse,80.0,5653.0,228.06,19.0,8.0,10.0,1795.0,2024-11-13,Hyderabad,Tablet,analytics for data
+A3272,Data Analytics Corse,180.0,3102.0,198.37,19.0,3.0,1.6666666666666667,1505.0,2024-11-29,Hyderabad,Mobile,online data analytic
+A3280,Data Anlytics Corse,140.0,5800.0,215.57,22.0,9.0,6.428571428571428,1369.0,2024-11-14,Hyderabad,TABLET,data analytics course
+A3282,Data Analytics Corse,101.0,3449.0,188.39,16.0,10.0,9.900990099009901,1318.0,2024-11-08,Hyderabad,desktop,online data analytic
+A3284,Data Anlytics Corse,142.0,5365.0,237.95,17.0,10.0,7.042253521126761,1548.0,2024-11-27,Hyderabad,Tablet,data analitics online
+A3289,Data Anlytics Corse,171.0,4307.0,220.89,20.0,8.0,4.678362573099415,1187.0,2024-11-01,Hyderabad,tablet,data analitics online
+A3291,Data Analytics Corse,169.0,3589.0,237.83,15.0,3.0,1.7751479289940828,1754.0,2024-11-21,Hyderabad,MOBILE,analytics for data
+A3294,DataAnalyticsCourse,189.0,5624.0,248.03,23.0,7.0,3.7037037037037033,1505.0,2024-11-10,Hyderabad,TABLET,analytics for data
+A3295,Data Analytics Corse,124.0,5931.0,214.41,21.0,3.0,2.4193548387096775,1906.0,2024-11-05,Hyderabad,tablet,online data analytic
+A3296,DataAnalyticsCourse,138.0,5891.0,247.47,14.0,7.0,5.072463768115942,1138.0,2024-11-14,Hyderabad,DESKTOP,online data analytic
+A3299,DataAnalyticsCourse,151.0,5403.0,180.74,22.0,3.0,1.9867549668874174,1610.0,2024-11-29,Hyderabad,tablet,data analitics online
+A3304,Data Anlytics Corse,131.0,5528.0,182.38,27.0,6.0,4.580152671755725,1168.0,2024-11-03,Hyderabad,Desktop,analytics for data
+A3314,Data Analytics Corse,140.0,3154.0,212.73,21.0,4.0,2.857142857142857,1024.0,2024-11-14,Hyderabad,TABLET,learn data analytics
+A3315,Data Analytics Corse,134.0,3700.0,226.57,28.0,7.0,5.223880597014925,1836.0,2024-11-04,Hyderabad,Tablet,data analitics online
+A3321,Data Analytics Corse,135.0,4740.0,235.55,24.0,4.0,2.9629629629629632,1715.0,2024-11-07,Hyderabad,DESKTOP,analytics for data
+A3322,DataAnalyticsCourse,87.0,4379.0,209.25,29.0,10.0,11.494252873563218,1348.0,2024-11-05,Hyderabad,DESKTOP,learn data analytics
+A3325,Data Anlytics Corse,84.0,5652.0,191.93,30.0,8.0,9.523809523809524,1729.0,2024-11-13,Hyderabad,MOBILE,data analitics online
+A3329,Data Analytcis Course,133.0,4241.0,197.26,25.0,9.0,6.7669172932330826,1325.0,2024-11-26,Hyderabad,TABLET,data anaytics training
+A3332,Data Analytics Corse,157.0,4062.0,223.72,24.0,8.0,5.095541401273886,1505.0,2024-11-25,Hyderabad,TABLET,data analitics online
+A3334,Data Analytics Corse,175.0,3958.0,193.52,23.0,8.0,4.571428571428571,1064.0,2024-11-04,Hyderabad,mobile,data analytics course
+A3336,Data Analytics Corse,127.0,4226.0,184.46,10.0,9.0,7.086614173228346,1427.0,2024-11-08,Hyderabad,Desktop,data analytics course
+A3340,Data Analytcis Course,146.0,5075.0,215.57,13.0,9.0,6.164383561643835,1353.0,2024-11-26,Hyderabad,tablet,analytics for data
+A3344,Data Analytcis Course,151.0,4107.0,183.81,21.0,10.0,6.622516556291391,1872.0,2024-11-11,Hyderabad,Desktop,data analytics course
+A3347,Data Analytics Corse,161.0,3160.0,229.71,17.0,3.0,1.8633540372670807,1817.0,2024-11-01,Hyderabad,Mobile,data anaytics training
+A3353,DataAnalyticsCourse,140.0,4507.0,200.54,30.0,5.0,3.571428571428571,1505.0,2024-11-01,Hyderabad,desktop,analytics for data
+A3356,Data Analytcis Course,119.0,4322.0,183.0,24.0,5.0,4.201680672268908,1108.0,2024-11-06,Hyderabad,mobile,data analitics online
+A3358,DataAnalyticsCourse,152.0,5007.0,208.84,19.0,10.0,6.578947368421052,1628.0,2024-11-24,Hyderabad,mobile,online data analytic
+A3360,Data Analytics Corse,120.0,4229.0,244.13,20.0,9.0,7.5,1380.0,2024-11-12,Hyderabad,desktop,data analytics course
+A3362,Data Analytcis Course,116.0,5001.0,186.67,17.0,5.0,4.310344827586207,1340.0,2024-11-07,Hyderabad,DESKTOP,analytics for data
+A3363,Data Anlytics Corse,93.0,3802.0,215.52,22.0,7.0,7.526881720430108,1513.0,2024-11-23,Hyderabad,mobile,online data analytic
+A3364,DataAnalyticsCourse,159.0,5584.0,249.46,18.0,8.0,5.031446540880504,1176.0,2024-11-09,Hyderabad,DESKTOP,analytics for data
+A3366,Data Analytcis Course,136.0,5714.0,190.3,19.0,8.0,5.88235294117647,1694.0,2024-11-30,Hyderabad,Desktop,data anaytics training
+A3367,DataAnalyticsCourse,159.0,5025.0,208.68,16.0,4.0,2.515723270440252,1779.0,2024-11-21,Hyderabad,mobile,online data analytic
+A3371,Data Analytics Corse,166.0,3546.0,221.99,10.0,3.0,1.8072289156626504,1796.0,2024-11-12,Hyderabad,desktop,learn data analytics
+A3373,DataAnalyticsCourse,140.0,3580.0,223.48,21.0,6.0,4.285714285714286,1555.0,2024-11-27,Hyderabad,TABLET,data analytics course
+A3376,DataAnalyticsCourse,80.0,4413.0,245.4,10.0,5.0,6.25,1650.0,2024-11-03,Hyderabad,Mobile,data analytics course
+A3382,Data Anlytics Corse,198.0,3926.0,195.25,25.0,7.0,3.535353535353535,1060.0,2024-11-12,Hyderabad,Desktop,data analitics online
+A3383,Data Analytcis Course,87.0,4154.0,232.88,13.0,3.0,3.4482758620689653,1099.0,2024-11-10,Hyderabad,Desktop,online data analytic
+A3384,Data Analytcis Course,101.0,3286.0,196.59,12.0,9.0,8.91089108910891,1034.0,2024-11-02,Hyderabad,Tablet,analytics for data
+A3386,Data Anlytics Corse,111.0,5689.0,195.94,12.0,4.0,3.6036036036036037,1377.0,2024-11-14,Hyderabad,desktop,analytics for data
+A3391,DataAnalyticsCourse,153.0,4027.0,182.11,10.0,5.0,3.2679738562091507,1332.0,2024-11-28,Hyderabad,TABLET,learn data analytics
+A3396,Data Analytcis Course,97.0,3370.0,236.35,20.0,7.0,7.216494845360824,1505.0,2024-11-04,Hyderabad,Mobile,data analytics course
+A3401,Data Analytics Corse,187.0,4793.0,186.41,30.0,9.0,4.81283422459893,1120.0,2024-11-03,Hyderabad,DESKTOP,data analytics course
+A3407,Data Anlytics Corse,100.0,5781.0,202.96,30.0,7.0,7.000000000000001,1132.0,2024-11-18,Hyderabad,Desktop,data anaytics training
+A3409,Data Analytcis Course,89.0,3915.0,207.63,10.0,7.0,7.865168539325842,1454.0,2024-11-02,Hyderabad,Desktop,data analytics course
+A3411,Data Analytics Corse,153.0,3225.0,240.34,20.0,8.0,5.228758169934641,1313.0,2024-11-28,Hyderabad,tablet,data analitics online
+A3414,Data Anlytics Corse,189.0,5740.0,231.73,28.0,5.0,2.6455026455026456,1306.0,2024-11-03,Hyderabad,TABLET,online data analytic
+A3417,Data Anlytics Corse,174.0,3957.0,181.56,12.0,3.0,1.7241379310344827,1385.0,2024-11-02,Hyderabad,desktop,data anaytics training
+A3419,Data Anlytics Corse,190.0,3455.0,213.11,18.0,7.0,3.684210526315789,1730.0,2024-11-13,Hyderabad,Desktop,data anaytics training
+A3423,Data Analytics Corse,197.0,3253.0,243.38,17.0,3.0,1.5228426395939088,1606.0,2024-11-22,Hyderabad,Tablet,data analytics course
+A3425,Data Analytics Corse,128.0,3153.0,236.34,16.0,6.0,4.6875,1050.0,2024-11-09,Hyderabad,Desktop,online data analytic
+A3429,Data Analytics Corse,138.0,3961.0,247.45,13.0,3.0,2.1739130434782608,1601.0,2024-11-18,Hyderabad,mobile,data analytics course
+A3434,DataAnalyticsCourse,125.0,3808.0,191.42,29.0,7.0,5.6000000000000005,1783.0,2024-11-10,Hyderabad,TABLET,data analytics course
+A3435,Data Anlytics Corse,175.0,3938.0,186.09,22.0,9.0,5.142857142857142,1218.0,2024-11-05,Hyderabad,mobile,analytics for data
+A3438,Data Analytics Corse,182.0,5466.0,206.3,26.0,4.0,2.197802197802198,1816.0,2024-11-18,Hyderabad,tablet,data analytics course
+A3440,Data Analytcis Course,168.0,4904.0,220.19,23.0,6.0,3.571428571428571,1870.0,2024-11-11,Hyderabad,Desktop,learn data analytics
+A3443,DataAnalyticsCourse,113.0,3532.0,247.57,29.0,6.0,5.3097345132743365,1273.0,2024-11-20,Hyderabad,Mobile,learn data analytics
+A3449,Data Analytics Corse,184.0,5983.0,242.62,25.0,6.0,3.260869565217391,1538.0,2024-11-03,Hyderabad,Desktop,data analytics course
+A3450,Data Anlytics Corse,167.0,5051.0,202.95,21.0,10.0,5.9880239520958085,1812.0,2024-11-10,Hyderabad,Mobile,learn data analytics
+A3457,Data Analytics Corse,150.0,4409.0,223.45,23.0,7.0,4.666666666666667,1578.0,2024-11-13,Hyderabad,DESKTOP,learn data analytics
+A3461,Data Anlytics Corse,187.0,3289.0,186.04,23.0,5.0,2.6737967914438503,1645.0,2024-11-06,Hyderabad,Desktop,data analytics course
+A3462,DataAnalyticsCourse,172.0,4441.0,209.18,17.0,10.0,5.813953488372093,1505.0,2024-11-29,Hyderabad,desktop,data analitics online
+A3463,Data Analytcis Course,105.0,3000.0,185.97,17.0,6.0,5.714285714285714,1993.0,2024-11-29,Hyderabad,mobile,data analitics online
+A3464,Data Anlytics Corse,181.0,4156.0,245.68,22.0,10.0,5.524861878453039,1336.0,2024-11-14,Hyderabad,MOBILE,learn data analytics
+A3465,Data Analytics Corse,172.0,5314.0,240.69,14.0,9.0,5.232558139534884,1998.0,2024-11-23,Hyderabad,TABLET,learn data analytics
+A3471,Data Analytics Corse,116.0,4689.0,198.9,27.0,3.0,2.586206896551724,1553.0,2024-11-24,Hyderabad,MOBILE,data anaytics training
+A3472,Data Analytcis Course,148.0,3907.0,199.43,11.0,7.0,4.72972972972973,1253.0,2024-11-20,Hyderabad,Desktop,data analitics online
+A3479,Data Analytics Corse,140.0,3699.0,186.22,23.0,7.0,5.0,1218.0,2024-11-23,Hyderabad,Tablet,analytics for data
+A3480,DataAnalyticsCourse,172.0,5955.0,216.07,15.0,7.0,4.069767441860465,1323.0,2024-11-02,Hyderabad,Mobile,learn data analytics
+A3482,Data Anlytics Corse,148.0,3884.0,233.46,14.0,5.0,3.3783783783783785,1138.0,2024-11-11,Hyderabad,mobile,data analitics online
+A3484,Data Anlytics Corse,168.0,5384.0,235.64,28.0,3.0,1.7857142857142856,1505.0,2024-11-16,Hyderabad,Mobile,data analytics course
+A3487,Data Analytcis Course,136.0,3705.0,212.05,16.0,9.0,6.61764705882353,1471.0,2024-11-14,Hyderabad,desktop,analytics for data
+A3489,Data Anlytics Corse,157.0,4026.0,192.69,19.0,3.0,1.910828025477707,1028.0,2024-11-09,Hyderabad,TABLET,analytics for data
+A3491,Data Analytcis Course,137.0,5244.0,187.79,20.0,7.0,5.109489051094891,1915.0,2024-11-11,Hyderabad,Tablet,online data analytic
+A3492,Data Anlytics Corse,121.0,5220.0,200.98,21.0,5.0,4.132231404958678,1773.0,2024-11-13,Hyderabad,DESKTOP,data analitics online
+A3493,Data Analytcis Course,169.0,5430.0,233.01,27.0,7.0,4.142011834319527,2000.0,2024-11-10,Hyderabad,mobile,learn data analytics
+A3494,Data Anlytics Corse,83.0,4693.0,188.45,24.0,6.0,7.228915662650602,1539.0,2024-11-16,Hyderabad,Mobile,analytics for data
+A3495,DataAnalyticsCourse,175.0,4723.0,237.92,19.0,7.0,4.0,1906.0,2024-11-12,Hyderabad,Mobile,online data analytic
+A3496,Data Analytics Corse,123.0,5812.0,180.11,25.0,4.0,3.2520325203252036,1293.0,2024-11-21,Hyderabad,TABLET,data analitics online
+A3500,Data Analytics Corse,185.0,4803.0,248.77,30.0,5.0,2.7027027027027026,1806.0,2024-11-05,Hyderabad,Mobile,learn data analytics
+A3509,Data Analytcis Course,140.0,3003.0,210.63,16.0,10.0,7.142857142857142,1756.0,2024-11-16,Hyderabad,Tablet,data anaytics training
+A3510,DataAnalyticsCourse,142.0,3348.0,242.31,12.0,8.0,5.633802816901409,1220.0,2024-11-21,Hyderabad,TABLET,online data analytic
+A3514,Data Analytcis Course,181.0,3652.0,206.2,27.0,7.0,3.867403314917127,1690.0,2024-11-03,Hyderabad,TABLET,analytics for data
+A3516,Data Analytcis Course,167.0,5503.0,232.28,19.0,9.0,5.389221556886228,1644.0,2024-11-05,Hyderabad,MOBILE,data anaytics training
+A3517,Data Anlytics Corse,189.0,4955.0,215.87,21.0,3.0,1.5873015873015872,1238.0,2024-11-17,Hyderabad,MOBILE,data analitics online
+A3520,Data Analytcis Course,181.0,5171.0,208.69,14.0,4.0,2.209944751381215,1628.0,2024-11-23,Hyderabad,mobile,data analytics course
+A3521,Data Anlytics Corse,140.0,4878.0,183.26,25.0,3.0,2.142857142857143,1986.0,2024-11-23,Hyderabad,DESKTOP,learn data analytics
+A3522,Data Analytics Corse,127.0,3682.0,215.57,21.0,9.0,7.086614173228346,1384.0,2024-11-22,Hyderabad,TABLET,data anaytics training
+A3526,Data Analytics Corse,155.0,4676.0,219.3,26.0,7.0,4.516129032258064,1787.0,2024-11-02,Hyderabad,tablet,learn data analytics
+A3527,Data Analytcis Course,185.0,4507.0,208.41,25.0,3.0,1.6216216216216217,1006.0,2024-11-13,Hyderabad,mobile,data anaytics training
+A3529,Data Anlytics Corse,198.0,5736.0,227.53,14.0,9.0,4.545454545454546,1607.0,2024-11-18,Hyderabad,mobile,learn data analytics
+A3530,Data Analytics Corse,184.0,3641.0,189.0,22.0,7.0,3.804347826086957,1905.0,2024-11-15,Hyderabad,TABLET,data anaytics training
+A3531,Data Anlytics Corse,190.0,5429.0,243.6,23.0,8.0,4.2105263157894735,1505.0,2024-11-23,Hyderabad,TABLET,data analytics course
+A3534,Data Analytics Corse,172.0,3612.0,191.27,25.0,10.0,5.813953488372093,1243.0,2024-11-18,Hyderabad,Mobile,analytics for data
+A3536,DataAnalyticsCourse,144.0,5968.0,224.21,21.0,6.0,4.166666666666666,1993.0,2024-11-10,Hyderabad,DESKTOP,online data analytic
+A3537,Data Analytics Corse,148.0,5431.0,216.71,20.0,6.0,4.054054054054054,1200.0,2024-11-20,Hyderabad,MOBILE,online data analytic
+A3539,DataAnalyticsCourse,143.0,4701.0,222.43,29.0,4.0,2.797202797202797,1953.0,2024-11-07,Hyderabad,tablet,data analitics online
+A3541,Data Anlytics Corse,172.0,5295.0,204.31,26.0,8.0,4.651162790697675,1218.0,2024-11-29,Hyderabad,tablet,data analytics course
+A3542,Data Anlytics Corse,121.0,3577.0,239.27,29.0,3.0,2.479338842975207,1735.0,2024-11-26,Hyderabad,Desktop,data analitics online
+A3544,DataAnalyticsCourse,137.0,4287.0,231.9,14.0,7.0,5.109489051094891,1829.0,2024-11-29,Hyderabad,DESKTOP,analytics for data
+A3550,Data Anlytics Corse,170.0,5380.0,204.62,20.0,4.0,2.3529411764705883,1473.0,2024-11-15,Hyderabad,DESKTOP,data analytics course
+A3555,Data Analytics Corse,164.0,4725.0,224.43,18.0,10.0,6.097560975609756,1140.0,2024-11-30,Hyderabad,Mobile,data anaytics training
+A3556,Data Anlytics Corse,94.0,5762.0,202.12,23.0,5.0,5.319148936170213,1694.0,2024-11-23,Hyderabad,tablet,online data analytic
+A3558,Data Analytcis Course,194.0,4198.0,217.66,16.0,10.0,5.154639175257731,1619.0,2024-11-29,Hyderabad,tablet,online data analytic
+A3563,DataAnalyticsCourse,108.0,5245.0,227.35,12.0,5.0,4.62962962962963,1384.0,2024-11-27,Hyderabad,Tablet,data anaytics training
+A3567,DataAnalyticsCourse,141.0,5451.0,246.96,13.0,4.0,2.8368794326241136,1725.0,2024-11-12,Hyderabad,Tablet,learn data analytics
+A3569,Data Anlytics Corse,176.0,4285.0,245.13,28.0,9.0,5.113636363636364,1321.0,2024-11-08,Hyderabad,mobile,learn data analytics
+A3576,Data Anlytics Corse,129.0,3482.0,184.89,23.0,9.0,6.976744186046512,1667.0,2024-11-29,Hyderabad,MOBILE,online data analytic
+A3577,Data Analytcis Course,91.0,4893.0,222.3,29.0,10.0,10.989010989010989,1430.0,2024-11-21,Hyderabad,Mobile,learn data analytics
+A3578,Data Anlytics Corse,140.0,3075.0,239.32,12.0,10.0,7.142857142857142,1966.0,2024-11-22,Hyderabad,Mobile,data analytics course
+A3586,DataAnalyticsCourse,186.0,3314.0,237.84,11.0,5.0,2.6881720430107525,1864.0,2024-11-05,Hyderabad,TABLET,data analitics online
+A3597,Data Anlytics Corse,113.0,3808.0,233.25,18.0,4.0,3.5398230088495577,1085.0,2024-11-02,Hyderabad,desktop,data anaytics training
+A3598,Data Analytics Corse,196.0,5853.0,220.13,16.0,7.0,3.571428571428571,1558.0,2024-11-08,Hyderabad,Tablet,data anaytics training
