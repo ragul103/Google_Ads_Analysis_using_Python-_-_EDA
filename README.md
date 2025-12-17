@@ -113,7 +113,7 @@ google-ads-analysis/
 🧹 Data standardization improved analysis accuracy
 
 🔗 Project Links
-📓 Jupyter Notebook: (add link)
+📓 Jupyter Notebook: Google_ads/Google_Ads_Analysis.ipynb
 
 📊 Tableau Dashboard: (add Tableau Public link)
 
