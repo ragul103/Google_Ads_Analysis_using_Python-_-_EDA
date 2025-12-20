@@ -73,7 +73,7 @@ The dataset includes the following key attributes:
 
 Add screenshot here
 
-![Google Ads Tableau Dashboard](images/google_ads_tableau_dashboard.png)
+![Google Ads Tableau Dashboard](Screenshot 2025-12-20 131357.png)
 
 🛠️ Tools & Technologies
 
