@@ -1,5 +1,7 @@
 # 📊 Google Ads Analysis using Python & Tableau
-
+<p align="center">
+  <img src="Screenshot 2025-12-20 131357.png" alt="Dashboard Preview" width="750"/>
+</p>
 ## 🧭 Project Overview
 This project focuses on analyzing **Google Ads campaign data** to evaluate digital marketing performance and uncover actionable insights.  
 Python was used for **data cleaning and exploratory data analysis (EDA)**, and the processed data was visualized using an **interactive Tableau dashboard** for effective business storytelling.
