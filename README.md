@@ -117,5 +117,5 @@ google-ads-analysis/
 🔗 Project Links
 📓 Jupyter Notebook: Google_ads/Google_Ads_Analysis.ipynb
 
-📊 Tableau Dashboard: (add Tableau Public link)
+📊 Tableau Dashboard: Screenshot 2025-12-20 131357.png
 
